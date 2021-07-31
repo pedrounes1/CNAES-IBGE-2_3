@@ -3,8 +3,8 @@ id INT NOT NULL,
 descricao  VARCHAR(100) NOT NULL,
 grupo_id INT NOT NULL,
 
-PRIMARY KEY (id), 
- FOREIGN KEY (grupos) REFERENCES grupo (id));
+PRIMARY KEY (id),
+ FOREIGN KEY (grupos) REFERENCES cnae_grupo (id));
 
 INSERT INTO cnae_classes VALUES
 (01113, 'CULTIVO DE CEREAIS', 11),

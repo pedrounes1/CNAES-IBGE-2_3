@@ -4,7 +4,7 @@ descricao  VARCHAR(100) NOT NULL,
 divisao_id INT NOT NULL,
 
 PRIMARY KEY (id), 
- FOREIGN KEY (divisoes) REFERENCES divisao (id));
+ FOREIGN KEY (divisoes) REFERENCES cnae_divisao (id));
 
 INSERT INTO cnae_grupos VALUES
 (011, 'PRODUÇÃO DE LAVOURAS TEMPORÁRIAS', 1),
