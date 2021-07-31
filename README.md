@@ -1,4 +1,4 @@
-# Cadastro Nacional de Atividades Econômicas (CNAEs) | IBGE | v.2.3
+# Cadastro Nacional de Atividades Econômicas (CNAEs) | IBGE | v.2.3[![Build Status](https://www.travis-ci.com/pedrounes1/CNAES-IBGE-2_3.svg?branch=main)](https://www.travis-ci.com/pedrounes1/CNAES-IBGE-2_3)
 
 Reposítorio com a estrutura das Seções, Divisões, Grupos, Classes e Subclasses do Cadastro Nacional de Atividades Econômicas (CNAEs) organizados em arquivos `json`, `csv` e `SQL`, devidamente organizados.
 

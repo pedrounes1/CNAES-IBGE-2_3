@@ -1,0 +1,23 @@
+language: python
+
+python:
+  - "3.9"
+
+services:
+  - postgresql
+  - mysql
+
+script:
+  - psql -c 'CREATE DATABASE cnaes;' -U postgres
+  - psql -v ON_ERROR_STOP=1 --username=postgres cnaes < sql/secoes.sql
+  - psql -v ON_ERROR_STOP=1 --username=postgres cnaes < sql/divisoes.sql
+  - psql -v ON_ERROR_STOP=1 --username=postgres cnaes < sql/grupos.sql
+  - psql -v ON_ERROR_STOP=1 --username=postgres cnaes < sql/classes.sql
+  - psql -v ON_ERROR_STOP=1 --username=postgres cnaes < sql/subclasses.sql
+  - mysql -e 'CREATE DATABASE cnaes;'
+  - mysql cnaes -u root < sql/secoes.sql
+  - mysql cnaes -u root < sql/divisoes.sql
+  - mysql cnaes -u root < sql/grupos.sql
+  - mysql cnaes -u root < sql/classes.sql
+  - mysql cnaes -u root < sql/subclasses.sql
+  - python scripts/validate_files.py
