@@ -1,6 +1,6 @@
 CREATE TABLE cnae_grupos(
 id INT NOT NULL,
-descricao  VARCHAR(100) NOT NULL,
+descricao  VARCHAR(255) NOT NULL,
 divisao_id INT NOT NULL,
 
 PRIMARY KEY (id), 

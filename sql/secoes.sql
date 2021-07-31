@@ -1,6 +1,6 @@
 CREATE TABLE cnae_secoes(
 id CHAR(1) NOT NULL,
-descricao  VARCHAR(100) NOT NULL,
+descricao  VARCHAR(255) NOT NULL,
 
 
 PRIMARY KEY (id));

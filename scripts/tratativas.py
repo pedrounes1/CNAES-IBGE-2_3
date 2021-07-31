@@ -72,7 +72,7 @@ def getDados(categoria: str):
 
     sql = f'''CREATE TABLE cnae_{categoria}(
     id {'CHAR(1)' if categoria == 'secoes' else 'INT'} NOT NULL,
-    descricao  VARCHAR(100) NOT NULL,
+    descricao  VARCHAR(255) NOT NULL,
     {fk}
 
     {constraint});

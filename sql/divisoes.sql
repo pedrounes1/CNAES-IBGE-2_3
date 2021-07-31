@@ -1,6 +1,6 @@
 CREATE TABLE cnae_divisoes(
 id INT NOT NULL,
-descricao  VARCHAR(100) NOT NULL,
+descricao  VARCHAR(255) NOT NULL,
 secao_id CHAR(1) NOT NULL,
 
 PRIMARY KEY (id), 
