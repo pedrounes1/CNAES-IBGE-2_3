@@ -71,7 +71,7 @@ def getDados(categoria: str):
         constraint = 'PRIMARY KEY (id)'
 
     sql = f'''CREATE TABLE cnae_{categoria}(
-    id {'CHAR(1)' if categoria == 'sessoes' else 'INT'} NOT NULL,
+    id {'CHAR(1)' if categoria == 'secoes' else 'INT'} NOT NULL,
     descricao  VARCHAR(100) NOT NULL,
     {fk}
 

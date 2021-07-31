@@ -1,5 +1,5 @@
 CREATE TABLE cnae_secoes(
-id INT NOT NULL,
+id CHAR(1) NOT NULL,
 descricao  VARCHAR(100) NOT NULL,
 
 
