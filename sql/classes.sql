@@ -1,10 +1,9 @@
-
 CREATE TABLE cnae_classes(
 id INT NOT NULL,
 descricao  VARCHAR(100) NOT NULL,
 grupo_id INT NOT NULL,
 
-PRIMARY KEY id, 
+PRIMARY KEY (id),
  FOREIGN KEY (grupos) REFERENCES grupo (id));
 
 INSERT INTO classes VALUES

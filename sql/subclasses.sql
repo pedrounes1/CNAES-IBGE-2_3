@@ -1,10 +1,9 @@
-
 CREATE TABLE cnae_subclasses(
 id INT NOT NULL,
 descricao  VARCHAR(100) NOT NULL,
 classe_id INT NOT NULL,
 
-PRIMARY KEY id, 
+PRIMARY KEY (id),
  FOREIGN KEY (classes) REFERENCES classe (id));
 
 INSERT INTO subclasses VALUES

@@ -1,10 +1,9 @@
-
 CREATE TABLE cnae_grupos(
 id INT NOT NULL,
 descricao  VARCHAR(100) NOT NULL,
 divisao_id INT NOT NULL,
 
-PRIMARY KEY id, 
+PRIMARY KEY (id),
  FOREIGN KEY (divisoes) REFERENCES divisao (id));
 
 INSERT INTO grupos VALUES

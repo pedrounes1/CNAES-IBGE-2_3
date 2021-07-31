@@ -1,8 +1,23 @@
 import requests
 import time
+import os
 import pandas as pd
 
 URL = "https://servicodados.ibge.gov.br/api/v2/cnae/"
+
+DIR = os.path.dirname(__file__)
+
+
+def p(arquivo: str):
+    """Função para gerar o path (por isso p) para abrir e exportar os arquivos. `p` é mais curto que "`os.path.join(DIR, "../nome_do_arquivo"`
+
+    Args:
+        arquivo (str): nome do arquivo com extensão a ser aberto/salvo
+
+    Returns:
+        StrPath: Caminho completo para o arquivo, considerando a constante `DIR`.
+    """
+    return os.path.join(DIR, f'../{arquivo}')
 
 
 def getDados(categoria: str):
@@ -36,10 +51,10 @@ def getDados(categoria: str):
     resposta = resposta.drop_duplicates()
 
     # Crio CSV
-    resposta.to_csv(f'./csv/{categoria}.csv', index=False)
+    resposta.to_csv(p(f'./csv/{categoria}.csv'), index=False)
 
     # Crio JSON
-    resposta.to_json(f'./json/{categoria}.json', orient='records', force_ascii=False)
+    resposta.to_json(p(f'./json/{categoria}.json'), orient='records', force_ascii=False)
 
     # Crio SQL:
     # A criação do arquivo SQL é a mais problemática, uma vez que o pandas não consegue exportar os dados diretamente para um arquivo .SQL.
@@ -50,10 +65,10 @@ def getDados(categoria: str):
         # Defino o plural. Divisao e sessao perdem os dois ultimos caracteres e ganham 'oes'.
         parent_plural = parent[:-3] + 's' if parent[: -3] in ['grupo', 'classe'] else parent[:-5] + 'oes'
         fk = f'{parent} {"CHAR(1)" if categoria == "divisoes" else "INT"} NOT NULL,'
-        constraint = f'PRIMARY KEY id, \n FOREIGN KEY ({parent_plural}) REFERENCES {parent[:-3]} (id)'
+        constraint = f'PRIMARY KEY (id), \n FOREIGN KEY ({parent_plural}) REFERENCES {parent[:-3]} (id)'
     else:
         fk = ''
-        constraint = 'PRIMARY KEY id'
+        constraint = 'PRIMARY KEY (id)'
 
     sql = f'''CREATE TABLE cnae_{categoria}(
     id {'CHAR(1)' if categoria == 'sessoes' else 'INT'} NOT NULL,
@@ -62,7 +77,7 @@ def getDados(categoria: str):
 
     {constraint});
 
-INSERT INTO {categoria} VALUES'''
+INSERT INTO {categoria} VALUES\n'''
     if categoria == 'secoes':  # secoes não tem parent
         for dado in resposta.to_dict(orient='records'):
             sql += f"('{dado['id']}', '{dado['descricao']}'),\n"
@@ -77,7 +92,7 @@ INSERT INTO {categoria} VALUES'''
     sql = sql[:-2] + ";"
 
     sql = sql.replace('    ', '')  # Tiro os espaços em branco
-    with open(f'./sql/{categoria}.sql', 'w+', encoding='utf-8') as file:
+    with open(p(f'./sql/{categoria}.sql'), 'w+', encoding='utf-8') as file:
         file.write(sql)
 
     print(f'{categoria} processada com sucesso! {len(resposta)} registros, {resposta["id"].nunique()} registros unicos')

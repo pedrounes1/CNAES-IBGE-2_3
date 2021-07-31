@@ -1,10 +1,9 @@
-
 CREATE TABLE cnae_divisoes(
 id INT NOT NULL,
 descricao  VARCHAR(100) NOT NULL,
 secao_id CHAR(1) NOT NULL,
 
-PRIMARY KEY id, 
+PRIMARY KEY (id),
  FOREIGN KEY (secoes) REFERENCES secao (id));
 
 INSERT INTO divisoes VALUES
