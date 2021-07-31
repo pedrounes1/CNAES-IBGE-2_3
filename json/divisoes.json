@@ -1,0 +1,437 @@
+[
+    {
+        "id": "01",
+        "descricao": "AGRICULTURA, PECUÁRIA E SERVIÇOS RELACIONADOS",
+        "secao_id": "A"
+    },
+    {
+        "id": "02",
+        "descricao": "PRODUÇÃO FLORESTAL",
+        "secao_id": "A"
+    },
+    {
+        "id": "03",
+        "descricao": "PESCA E AQÜICULTURA",
+        "secao_id": "A"
+    },
+    {
+        "id": "05",
+        "descricao": "EXTRAÇÃO DE CARVÃO MINERAL",
+        "secao_id": "B"
+    },
+    {
+        "id": "06",
+        "descricao": "EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL",
+        "secao_id": "B"
+    },
+    {
+        "id": "07",
+        "descricao": "EXTRAÇÃO DE MINERAIS METÁLICOS",
+        "secao_id": "B"
+    },
+    {
+        "id": "08",
+        "descricao": "EXTRAÇÃO DE MINERAIS NÃO-METÁLICOS",
+        "secao_id": "B"
+    },
+    {
+        "id": "09",
+        "descricao": "ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS",
+        "secao_id": "B"
+    },
+    {
+        "id": "10",
+        "descricao": "FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "11",
+        "descricao": "FABRICAÇÃO DE BEBIDAS",
+        "secao_id": "C"
+    },
+    {
+        "id": "12",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DO FUMO",
+        "secao_id": "C"
+    },
+    {
+        "id": "13",
+        "descricao": "FABRICAÇÃO DE PRODUTOS TÊXTEIS",
+        "secao_id": "C"
+    },
+    {
+        "id": "14",
+        "descricao": "CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "15",
+        "descricao": "PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "16",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE MADEIRA",
+        "secao_id": "C"
+    },
+    {
+        "id": "17",
+        "descricao": "FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL",
+        "secao_id": "C"
+    },
+    {
+        "id": "18",
+        "descricao": "IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES",
+        "secao_id": "C"
+    },
+    {
+        "id": "19",
+        "descricao": "FABRICAÇÃO DE COQUE, DE PRODUTOS DERIVADOS DO PETRÓLEO E DE BIOCOMBUSTÍVEIS",
+        "secao_id": "C"
+    },
+    {
+        "id": "29",
+        "descricao": "FABRICAÇÃO DE VEÍCULOS AUTOMOTORES, REBOQUES E CARROCERIAS",
+        "secao_id": "C"
+    },
+    {
+        "id": "20",
+        "descricao": "FABRICAÇÃO DE PRODUTOS QUÍMICOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "21",
+        "descricao": "FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "22",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO",
+        "secao_id": "C"
+    },
+    {
+        "id": "23",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "24",
+        "descricao": "METALURGIA",
+        "secao_id": "C"
+    },
+    {
+        "id": "25",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS  E EQUIPAMENTOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "26",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "27",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "28",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "30",
+        "descricao": "FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES",
+        "secao_id": "C"
+    },
+    {
+        "id": "31",
+        "descricao": "FABRICAÇÃO DE MÓVEIS",
+        "secao_id": "C"
+    },
+    {
+        "id": "32",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DIVERSOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "33",
+        "descricao": "MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+        "secao_id": "C"
+    },
+    {
+        "id": "35",
+        "descricao": "ELETRICIDADE, GÁS E OUTRAS UTILIDADES",
+        "secao_id": "D"
+    },
+    {
+        "id": "36",
+        "descricao": "CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA",
+        "secao_id": "E"
+    },
+    {
+        "id": "37",
+        "descricao": "ESGOTO E ATIVIDADES RELACIONADAS",
+        "secao_id": "E"
+    },
+    {
+        "id": "38",
+        "descricao": "COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS",
+        "secao_id": "E"
+    },
+    {
+        "id": "39",
+        "descricao": "DESCONTAMINAÇÃO E OUTROS SERVIÇOS DE GESTÃO DE RESÍDUOS",
+        "secao_id": "E"
+    },
+    {
+        "id": "41",
+        "descricao": "CONSTRUÇÃO DE EDIFÍCIOS",
+        "secao_id": "F"
+    },
+    {
+        "id": "42",
+        "descricao": "OBRAS DE INFRA-ESTRUTURA",
+        "secao_id": "F"
+    },
+    {
+        "id": "52",
+        "descricao": "ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES",
+        "secao_id": "H"
+    },
+    {
+        "id": "53",
+        "descricao": "CORREIO E OUTRAS ATIVIDADES DE ENTREGA",
+        "secao_id": "H"
+    },
+    {
+        "id": "55",
+        "descricao": "ALOJAMENTO",
+        "secao_id": "I"
+    },
+    {
+        "id": "56",
+        "descricao": "ALIMENTAÇÃO",
+        "secao_id": "I"
+    },
+    {
+        "id": "43",
+        "descricao": "SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO",
+        "secao_id": "F"
+    },
+    {
+        "id": "45",
+        "descricao": "COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS",
+        "secao_id": "G"
+    },
+    {
+        "id": "60",
+        "descricao": "ATIVIDADES DE RÁDIO E DE TELEVISÃO",
+        "secao_id": "J"
+    },
+    {
+        "id": "46",
+        "descricao": "COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS",
+        "secao_id": "G"
+    },
+    {
+        "id": "47",
+        "descricao": "COMÉRCIO VAREJISTA",
+        "secao_id": "G"
+    },
+    {
+        "id": "49",
+        "descricao": "TRANSPORTE TERRESTRE",
+        "secao_id": "H"
+    },
+    {
+        "id": "50",
+        "descricao": "TRANSPORTE AQUAVIÁRIO",
+        "secao_id": "H"
+    },
+    {
+        "id": "51",
+        "descricao": "TRANSPORTE AÉREO",
+        "secao_id": "H"
+    },
+    {
+        "id": "71",
+        "descricao": "SERVIÇOS DE ARQUITETURA E ENGENHARIA; TESTES E ANÁLISES TÉCNICAS",
+        "secao_id": "M"
+    },
+    {
+        "id": "58",
+        "descricao": "EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO",
+        "secao_id": "J"
+    },
+    {
+        "id": "59",
+        "descricao": "ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO; GRAVAÇÃO DE SOM E EDIÇÃO DE MÚSICA",
+        "secao_id": "J"
+    },
+    {
+        "id": "61",
+        "descricao": "TELECOMUNICAÇÕES",
+        "secao_id": "J"
+    },
+    {
+        "id": "62",
+        "descricao": "ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "secao_id": "J"
+    },
+    {
+        "id": "63",
+        "descricao": "ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO",
+        "secao_id": "J"
+    },
+    {
+        "id": "64",
+        "descricao": "ATIVIDADES DE SERVIÇOS FINANCEIROS",
+        "secao_id": "K"
+    },
+    {
+        "id": "65",
+        "descricao": "SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE",
+        "secao_id": "K"
+    },
+    {
+        "id": "66",
+        "descricao": "ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE",
+        "secao_id": "K"
+    },
+    {
+        "id": "68",
+        "descricao": "ATIVIDADES IMOBILIÁRIAS",
+        "secao_id": "L"
+    },
+    {
+        "id": "69",
+        "descricao": "ATIVIDADES JURÍDICAS, DE CONTABILIDADE E DE AUDITORIA",
+        "secao_id": "M"
+    },
+    {
+        "id": "70",
+        "descricao": "ATIVIDADES DE SEDES DE EMPRESAS E DE CONSULTORIA EM GESTÃO EMPRESARIAL",
+        "secao_id": "M"
+    },
+    {
+        "id": "72",
+        "descricao": "PESQUISA E DESENVOLVIMENTO CIENTÍFICO",
+        "secao_id": "M"
+    },
+    {
+        "id": "73",
+        "descricao": "PUBLICIDADE E PESQUISA DE MERCADO",
+        "secao_id": "M"
+    },
+    {
+        "id": "74",
+        "descricao": "OUTRAS ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS",
+        "secao_id": "M"
+    },
+    {
+        "id": "75",
+        "descricao": "ATIVIDADES VETERINÁRIAS",
+        "secao_id": "M"
+    },
+    {
+        "id": "91",
+        "descricao": "ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL",
+        "secao_id": "R"
+    },
+    {
+        "id": "92",
+        "descricao": "ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E APOSTAS",
+        "secao_id": "R"
+    },
+    {
+        "id": "77",
+        "descricao": "ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS",
+        "secao_id": "N"
+    },
+    {
+        "id": "78",
+        "descricao": "SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃO-DE-OBRA",
+        "secao_id": "N"
+    },
+    {
+        "id": "79",
+        "descricao": "AGÊNCIAS DE VIAGENS, OPERADORES TURÍSTICOS E SERVIÇOS DE RESERVAS",
+        "secao_id": "N"
+    },
+    {
+        "id": "80",
+        "descricao": "ATIVIDADES DE VIGILÂNCIA, SEGURANÇA E INVESTIGAÇÃO",
+        "secao_id": "N"
+    },
+    {
+        "id": "81",
+        "descricao": "SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS",
+        "secao_id": "N"
+    },
+    {
+        "id": "82",
+        "descricao": "SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS",
+        "secao_id": "N"
+    },
+    {
+        "id": "84",
+        "descricao": "ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL",
+        "secao_id": "O"
+    },
+    {
+        "id": "85",
+        "descricao": "EDUCAÇÃO",
+        "secao_id": "P"
+    },
+    {
+        "id": "86",
+        "descricao": "ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA",
+        "secao_id": "Q"
+    },
+    {
+        "id": "87",
+        "descricao": "ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES",
+        "secao_id": "Q"
+    },
+    {
+        "id": "88",
+        "descricao": "SERVIÇOS DE ASSISTÊNCIA SOCIAL SEM ALOJAMENTO",
+        "secao_id": "Q"
+    },
+    {
+        "id": "90",
+        "descricao": "ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS",
+        "secao_id": "R"
+    },
+    {
+        "id": "93",
+        "descricao": "ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER",
+        "secao_id": "R"
+    },
+    {
+        "id": "94",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS",
+        "secao_id": "S"
+    },
+    {
+        "id": "95",
+        "descricao": "REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO E DE OBJETOS PESSOAIS E DOMÉSTICOS",
+        "secao_id": "S"
+    },
+    {
+        "id": "96",
+        "descricao": "OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS",
+        "secao_id": "S"
+    },
+    {
+        "id": "97",
+        "descricao": "SERVIÇOS DOMÉSTICOS",
+        "secao_id": "T"
+    },
+    {
+        "id": "99",
+        "descricao": "ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS",
+        "secao_id": "U"
+    }
+]

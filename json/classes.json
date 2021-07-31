@@ -1,0 +1,3367 @@
+[
+    {
+        "id": "01113",
+        "descricao": "CULTIVO DE CEREAIS",
+        "grupo_id": "011"
+    },
+    {
+        "id": "01121",
+        "descricao": "CULTIVO DE ALGODÃO HERBÁCEO E DE OUTRAS FIBRAS DE LAVOURA TEMPORÁRIA",
+        "grupo_id": "011"
+    },
+    {
+        "id": "01130",
+        "descricao": "CULTIVO DE CANA-DE-AÇÚCAR",
+        "grupo_id": "011"
+    },
+    {
+        "id": "01148",
+        "descricao": "CULTIVO DE FUMO",
+        "grupo_id": "011"
+    },
+    {
+        "id": "01156",
+        "descricao": "CULTIVO DE SOJA",
+        "grupo_id": "011"
+    },
+    {
+        "id": "01164",
+        "descricao": "CULTIVO DE OLEAGINOSAS DE LAVOURA TEMPORÁRIA, EXCETO SOJA",
+        "grupo_id": "011"
+    },
+    {
+        "id": "01199",
+        "descricao": "CULTIVO DE PLANTAS DE LAVOURA TEMPORÁRIA NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "011"
+    },
+    {
+        "id": "01211",
+        "descricao": "HORTICULTURA",
+        "grupo_id": "012"
+    },
+    {
+        "id": "01229",
+        "descricao": "CULTIVO DE FLORES E PLANTAS ORNAMENTAIS",
+        "grupo_id": "012"
+    },
+    {
+        "id": "07243",
+        "descricao": "EXTRAÇÃO DE MINÉRIO DE METAIS PRECIOSOS",
+        "grupo_id": "072"
+    },
+    {
+        "id": "01318",
+        "descricao": "CULTIVO DE LARANJA",
+        "grupo_id": "013"
+    },
+    {
+        "id": "01326",
+        "descricao": "CULTIVO DE UVA",
+        "grupo_id": "013"
+    },
+    {
+        "id": "01334",
+        "descricao": "CULTIVO DE FRUTAS DE LAVOURA PERMANENTE, EXCETO LARANJA E UVA",
+        "grupo_id": "013"
+    },
+    {
+        "id": "01342",
+        "descricao": "CULTIVO DE CAFÉ",
+        "grupo_id": "013"
+    },
+    {
+        "id": "01351",
+        "descricao": "CULTIVO DE CACAU",
+        "grupo_id": "013"
+    },
+    {
+        "id": "01393",
+        "descricao": "CULTIVO DE PLANTAS DE LAVOURA PERMANENTE NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "013"
+    },
+    {
+        "id": "01415",
+        "descricao": "PRODUÇÃO DE SEMENTES CERTIFICADAS",
+        "grupo_id": "014"
+    },
+    {
+        "id": "01423",
+        "descricao": "PRODUÇÃO DE MUDAS E OUTRAS FORMAS DE PROPAGAÇÃO VEGETAL, CERTIFICADAS",
+        "grupo_id": "014"
+    },
+    {
+        "id": "01512",
+        "descricao": "CRIAÇÃO DE BOVINOS",
+        "grupo_id": "015"
+    },
+    {
+        "id": "10538",
+        "descricao": "FABRICAÇÃO DE SORVETES E OUTROS GELADOS COMESTÍVEIS",
+        "grupo_id": "105"
+    },
+    {
+        "id": "01521",
+        "descricao": "CRIAÇÃO DE OUTROS ANIMAIS DE GRANDE PORTE",
+        "grupo_id": "015"
+    },
+    {
+        "id": "01539",
+        "descricao": "CRIAÇÃO DE CAPRINOS E OVINOS",
+        "grupo_id": "015"
+    },
+    {
+        "id": "01547",
+        "descricao": "CRIAÇÃO DE SUÍNOS",
+        "grupo_id": "015"
+    },
+    {
+        "id": "01555",
+        "descricao": "CRIAÇÃO DE AVES",
+        "grupo_id": "015"
+    },
+    {
+        "id": "01598",
+        "descricao": "CRIAÇÃO DE ANIMAIS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "015"
+    },
+    {
+        "id": "01610",
+        "descricao": "ATIVIDADES DE APOIO À AGRICULTURA",
+        "grupo_id": "016"
+    },
+    {
+        "id": "01628",
+        "descricao": "ATIVIDADES DE APOIO À PECUÁRIA",
+        "grupo_id": "016"
+    },
+    {
+        "id": "01636",
+        "descricao": "ATIVIDADES DE PÓS-COLHEITA",
+        "grupo_id": "016"
+    },
+    {
+        "id": "01709",
+        "descricao": "CAÇA E SERVIÇOS RELACIONADOS",
+        "grupo_id": "017"
+    },
+    {
+        "id": "10619",
+        "descricao": "BENEFICIAMENTO DE ARROZ E FABRICAÇÃO DE PRODUTOS DO ARROZ",
+        "grupo_id": "106"
+    },
+    {
+        "id": "02101",
+        "descricao": "PRODUÇÃO FLORESTAL - FLORESTAS PLANTADAS",
+        "grupo_id": "021"
+    },
+    {
+        "id": "02209",
+        "descricao": "PRODUÇÃO FLORESTAL - FLORESTAS NATIVAS",
+        "grupo_id": "022"
+    },
+    {
+        "id": "02306",
+        "descricao": "ATIVIDADES DE APOIO À PRODUÇÃO FLORESTAL",
+        "grupo_id": "023"
+    },
+    {
+        "id": "03116",
+        "descricao": "PESCA EM ÁGUA SALGADA",
+        "grupo_id": "031"
+    },
+    {
+        "id": "03124",
+        "descricao": "PESCA EM ÁGUA DOCE",
+        "grupo_id": "031"
+    },
+    {
+        "id": "03213",
+        "descricao": "AQÜICULTURA EM ÁGUA SALGADA E SALOBRA",
+        "grupo_id": "032"
+    },
+    {
+        "id": "03221",
+        "descricao": "AQÜICULTURA EM ÁGUA DOCE",
+        "grupo_id": "032"
+    },
+    {
+        "id": "05003",
+        "descricao": "EXTRAÇÃO DE CARVÃO MINERAL",
+        "grupo_id": "050"
+    },
+    {
+        "id": "06000",
+        "descricao": "EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL",
+        "grupo_id": "060"
+    },
+    {
+        "id": "07103",
+        "descricao": "EXTRAÇÃO DE MINÉRIO DE FERRO",
+        "grupo_id": "071"
+    },
+    {
+        "id": "07219",
+        "descricao": "EXTRAÇÃO DE MINÉRIO DE ALUMÍNIO",
+        "grupo_id": "072"
+    },
+    {
+        "id": "07227",
+        "descricao": "EXTRAÇÃO DE MINÉRIO DE ESTANHO",
+        "grupo_id": "072"
+    },
+    {
+        "id": "07235",
+        "descricao": "EXTRAÇÃO DE MINÉRIO DE MANGANÊS",
+        "grupo_id": "072"
+    },
+    {
+        "id": "07251",
+        "descricao": "EXTRAÇÃO DE MINERAIS RADIOATIVOS",
+        "grupo_id": "072"
+    },
+    {
+        "id": "07294",
+        "descricao": "EXTRAÇÃO DE MINERAIS METÁLICOS NÃO-FERROSOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "072"
+    },
+    {
+        "id": "08100",
+        "descricao": "EXTRAÇÃO DE PEDRA, AREIA E ARGILA",
+        "grupo_id": "081"
+    },
+    {
+        "id": "08916",
+        "descricao": "EXTRAÇÃO DE MINERAIS PARA FABRICAÇÃO DE ADUBOS, FERTILIZANTES E OUTROS PRODUTOS QUÍMICOS",
+        "grupo_id": "089"
+    },
+    {
+        "id": "08924",
+        "descricao": "EXTRAÇÃO E REFINO DE SAL MARINHO E SAL-GEMA",
+        "grupo_id": "089"
+    },
+    {
+        "id": "08932",
+        "descricao": "EXTRAÇÃO DE GEMAS (PEDRAS PRECIOSAS E SEMIPRECIOSAS)",
+        "grupo_id": "089"
+    },
+    {
+        "id": "08991",
+        "descricao": "EXTRAÇÃO DE MINERAIS NÃO-METÁLICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "089"
+    },
+    {
+        "id": "09106",
+        "descricao": "ATIVIDADES DE APOIO À EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL",
+        "grupo_id": "091"
+    },
+    {
+        "id": "09904",
+        "descricao": "ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS, EXCETO PETRÓLEO E GÁS NATURAL",
+        "grupo_id": "099"
+    },
+    {
+        "id": "10112",
+        "descricao": "ABATE DE RESES, EXCETO SUÍNOS",
+        "grupo_id": "101"
+    },
+    {
+        "id": "10121",
+        "descricao": "ABATE DE SUÍNOS, AVES E OUTROS PEQUENOS ANIMAIS",
+        "grupo_id": "101"
+    },
+    {
+        "id": "10139",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE CARNE",
+        "grupo_id": "101"
+    },
+    {
+        "id": "10201",
+        "descricao": "PRESERVAÇÃO DO PESCADO E FABRICAÇÃO DE PRODUTOS DO PESCADO",
+        "grupo_id": "102"
+    },
+    {
+        "id": "10317",
+        "descricao": "FABRICAÇÃO DE CONSERVAS DE FRUTAS",
+        "grupo_id": "103"
+    },
+    {
+        "id": "10325",
+        "descricao": "FABRICAÇÃO DE CONSERVAS DE LEGUMES E OUTROS VEGETAIS",
+        "grupo_id": "103"
+    },
+    {
+        "id": "10333",
+        "descricao": "FABRICAÇÃO DE SUCOS DE FRUTAS, HORTALIÇAS E LEGUMES",
+        "grupo_id": "103"
+    },
+    {
+        "id": "10414",
+        "descricao": "FABRICAÇÃO DE ÓLEOS VEGETAIS EM BRUTO, EXCETO ÓLEO DE MILHO",
+        "grupo_id": "104"
+    },
+    {
+        "id": "10422",
+        "descricao": "FABRICAÇÃO DE ÓLEOS VEGETAIS REFINADOS, EXCETO ÓLEO DE MILHO",
+        "grupo_id": "104"
+    },
+    {
+        "id": "10431",
+        "descricao": "FABRICAÇÃO DE MARGARINA E OUTRAS GORDURAS VEGETAIS E DE ÓLEOS NÃO-COMESTÍVEIS DE ANIMAIS",
+        "grupo_id": "104"
+    },
+    {
+        "id": "10511",
+        "descricao": "PREPARAÇÃO DO LEITE",
+        "grupo_id": "105"
+    },
+    {
+        "id": "10520",
+        "descricao": "FABRICAÇÃO DE LATICÍNIOS",
+        "grupo_id": "105"
+    },
+    {
+        "id": "10627",
+        "descricao": "MOAGEM DE TRIGO E FABRICAÇÃO DE DERIVADOS",
+        "grupo_id": "106"
+    },
+    {
+        "id": "10635",
+        "descricao": "FABRICAÇÃO DE FARINHA DE MANDIOCA E DERIVADOS",
+        "grupo_id": "106"
+    },
+    {
+        "id": "10643",
+        "descricao": "FABRICAÇÃO DE FARINHA DE MILHO E DERIVADOS, EXCETO ÓLEOS DE MILHO",
+        "grupo_id": "106"
+    },
+    {
+        "id": "10651",
+        "descricao": "FABRICAÇÃO DE AMIDOS E FÉCULAS DE VEGETAIS E DE ÓLEOS DE MILHO",
+        "grupo_id": "106"
+    },
+    {
+        "id": "10660",
+        "descricao": "FABRICAÇÃO DE ALIMENTOS PARA ANIMAIS",
+        "grupo_id": "106"
+    },
+    {
+        "id": "10694",
+        "descricao": "MOAGEM E FABRICAÇÃO DE PRODUTOS DE ORIGEM VEGETAL NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "106"
+    },
+    {
+        "id": "10716",
+        "descricao": "FABRICAÇÃO DE AÇÚCAR EM BRUTO",
+        "grupo_id": "107"
+    },
+    {
+        "id": "10724",
+        "descricao": "FABRICAÇÃO DE AÇÚCAR REFINADO",
+        "grupo_id": "107"
+    },
+    {
+        "id": "10813",
+        "descricao": "TORREFAÇÃO E MOAGEM DE CAFÉ",
+        "grupo_id": "108"
+    },
+    {
+        "id": "10821",
+        "descricao": "FABRICAÇÃO DE PRODUTOS À BASE DE CAFÉ",
+        "grupo_id": "108"
+    },
+    {
+        "id": "10911",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE PANIFICAÇÃO",
+        "grupo_id": "109"
+    },
+    {
+        "id": "10929",
+        "descricao": "FABRICAÇÃO DE BISCOITOS E BOLACHAS",
+        "grupo_id": "109"
+    },
+    {
+        "id": "10937",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DERIVADOS DO CACAU, DE CHOCOLATES E CONFEITOS",
+        "grupo_id": "109"
+    },
+    {
+        "id": "10945",
+        "descricao": "FABRICAÇÃO DE MASSAS ALIMENTÍCIAS",
+        "grupo_id": "109"
+    },
+    {
+        "id": "10953",
+        "descricao": "FABRICAÇÃO DE ESPECIARIAS, MOLHOS, TEMPEROS E CONDIMENTOS",
+        "grupo_id": "109"
+    },
+    {
+        "id": "15335",
+        "descricao": "FABRICAÇÃO DE CALÇADOS DE MATERIAL SINTÉTICO",
+        "grupo_id": "153"
+    },
+    {
+        "id": "10961",
+        "descricao": "FABRICAÇÃO DE ALIMENTOS E PRATOS PRONTOS",
+        "grupo_id": "109"
+    },
+    {
+        "id": "10996",
+        "descricao": "FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "109"
+    },
+    {
+        "id": "11119",
+        "descricao": "FABRICAÇÃO DE AGUARDENTES E OUTRAS BEBIDAS DESTILADAS",
+        "grupo_id": "111"
+    },
+    {
+        "id": "11127",
+        "descricao": "FABRICAÇÃO DE VINHO",
+        "grupo_id": "111"
+    },
+    {
+        "id": "11135",
+        "descricao": "FABRICAÇÃO DE MALTE, CERVEJAS E CHOPES",
+        "grupo_id": "111"
+    },
+    {
+        "id": "11216",
+        "descricao": "FABRICAÇÃO DE ÁGUAS ENVASADAS",
+        "grupo_id": "112"
+    },
+    {
+        "id": "11224",
+        "descricao": "FABRICAÇÃO DE REFRIGERANTES E DE OUTRAS BEBIDAS NÃO-ALCOÓLICAS",
+        "grupo_id": "112"
+    },
+    {
+        "id": "12107",
+        "descricao": "PROCESSAMENTO INDUSTRIAL DO FUMO",
+        "grupo_id": "121"
+    },
+    {
+        "id": "12204",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DO FUMO",
+        "grupo_id": "122"
+    },
+    {
+        "id": "13111",
+        "descricao": "PREPARAÇÃO E FIAÇÃO DE FIBRAS DE ALGODÃO",
+        "grupo_id": "131"
+    },
+    {
+        "id": "20339",
+        "descricao": "FABRICAÇÃO DE ELASTÔMEROS",
+        "grupo_id": "203"
+    },
+    {
+        "id": "13120",
+        "descricao": "PREPARAÇÃO E FIAÇÃO DE FIBRAS TÊXTEIS NATURAIS, EXCETO ALGODÃO",
+        "grupo_id": "131"
+    },
+    {
+        "id": "13138",
+        "descricao": "FIAÇÃO DE FIBRAS ARTIFICIAIS E SINTÉTICAS",
+        "grupo_id": "131"
+    },
+    {
+        "id": "13146",
+        "descricao": "FABRICAÇÃO DE LINHAS PARA COSTURAR E BORDAR",
+        "grupo_id": "131"
+    },
+    {
+        "id": "13219",
+        "descricao": "TECELAGEM DE FIOS DE ALGODÃO",
+        "grupo_id": "132"
+    },
+    {
+        "id": "13227",
+        "descricao": "TECELAGEM DE FIOS DE FIBRAS TÊXTEIS NATURAIS, EXCETO ALGODÃO",
+        "grupo_id": "132"
+    },
+    {
+        "id": "13235",
+        "descricao": "TECELAGEM DE FIOS DE FIBRAS ARTIFICIAIS E SINTÉTICAS",
+        "grupo_id": "132"
+    },
+    {
+        "id": "13308",
+        "descricao": "FABRICAÇÃO DE TECIDOS DE MALHA",
+        "grupo_id": "133"
+    },
+    {
+        "id": "13405",
+        "descricao": "ACABAMENTOS EM FIOS, TECIDOS E ARTEFATOS TÊXTEIS",
+        "grupo_id": "134"
+    },
+    {
+        "id": "13511",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS TÊXTEIS PARA USO DOMÉSTICO",
+        "grupo_id": "135"
+    },
+    {
+        "id": "13529",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE TAPEÇARIA",
+        "grupo_id": "135"
+    },
+    {
+        "id": "13537",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE CORDOARIA",
+        "grupo_id": "135"
+    },
+    {
+        "id": "13545",
+        "descricao": "FABRICAÇÃO DE TECIDOS ESPECIAIS, INCLUSIVE ARTEFATOS",
+        "grupo_id": "135"
+    },
+    {
+        "id": "13596",
+        "descricao": "FABRICAÇÃO DE OUTROS PRODUTOS TÊXTEIS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "135"
+    },
+    {
+        "id": "14118",
+        "descricao": "CONFECÇÃO DE ROUPAS ÍNTIMAS",
+        "grupo_id": "141"
+    },
+    {
+        "id": "14126",
+        "descricao": "CONFECÇÃO DE PEÇAS DE VESTUÁRIO, EXCETO ROUPAS ÍNTIMAS",
+        "grupo_id": "141"
+    },
+    {
+        "id": "14134",
+        "descricao": "CONFECÇÃO DE ROUPAS PROFISSIONAIS",
+        "grupo_id": "141"
+    },
+    {
+        "id": "14142",
+        "descricao": "FABRICAÇÃO DE ACESSÓRIOS DO VESTUÁRIO, EXCETO PARA SEGURANÇA E PROTEÇÃO",
+        "grupo_id": "141"
+    },
+    {
+        "id": "14215",
+        "descricao": "FABRICAÇÃO DE MEIAS",
+        "grupo_id": "142"
+    },
+    {
+        "id": "14223",
+        "descricao": "FABRICAÇÃO DE ARTIGOS DO VESTUÁRIO, PRODUZIDOS EM MALHARIAS E TRICOTAGENS, EXCETO MEIAS",
+        "grupo_id": "142"
+    },
+    {
+        "id": "15106",
+        "descricao": "CURTIMENTO E OUTRAS PREPARAÇÕES DE COURO",
+        "grupo_id": "151"
+    },
+    {
+        "id": "15211",
+        "descricao": "FABRICAÇÃO DE ARTIGOS PARA VIAGEM, BOLSAS E SEMELHANTES DE QUALQUER MATERIAL",
+        "grupo_id": "152"
+    },
+    {
+        "id": "15297",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE COURO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "152"
+    },
+    {
+        "id": "15319",
+        "descricao": "FABRICAÇÃO DE CALÇADOS DE COURO",
+        "grupo_id": "153"
+    },
+    {
+        "id": "15327",
+        "descricao": "FABRICAÇÃO DE TÊNIS DE QUALQUER MATERIAL",
+        "grupo_id": "153"
+    },
+    {
+        "id": "15394",
+        "descricao": "FABRICAÇÃO DE CALÇADOS DE MATERIAIS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "153"
+    },
+    {
+        "id": "15408",
+        "descricao": "FABRICAÇÃO DE PARTES PARA CALÇADOS, DE QUALQUER MATERIAL",
+        "grupo_id": "154"
+    },
+    {
+        "id": "16102",
+        "descricao": "DESDOBRAMENTO DE MADEIRA",
+        "grupo_id": "161"
+    },
+    {
+        "id": "16218",
+        "descricao": "FABRICAÇÃO DE MADEIRA LAMINADA E DE CHAPAS DE MADEIRA COMPENSADA, PRENSADA E AGLOMERADA",
+        "grupo_id": "162"
+    },
+    {
+        "id": "16226",
+        "descricao": "FABRICAÇÃO DE ESTRUTURAS DE MADEIRA E DE ARTIGOS DE CARPINTARIA PARA CONSTRUÇÃO",
+        "grupo_id": "162"
+    },
+    {
+        "id": "16234",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE TANOARIA E DE EMBALAGENS DE MADEIRA",
+        "grupo_id": "162"
+    },
+    {
+        "id": "16293",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE MADEIRA, PALHA, CORTIÇA, VIME E MATERIAL TRANÇADO NÃO ESPECIFICADOS ANTERIORMENTE, EXCETO MÓVEIS",
+        "grupo_id": "162"
+    },
+    {
+        "id": "17109",
+        "descricao": "FABRICAÇÃO DE CELULOSE E OUTRAS PASTAS PARA A FABRICAÇÃO DE PAPEL",
+        "grupo_id": "171"
+    },
+    {
+        "id": "17214",
+        "descricao": "FABRICAÇÃO DE PAPEL",
+        "grupo_id": "172"
+    },
+    {
+        "id": "17222",
+        "descricao": "FABRICAÇÃO DE CARTOLINA E PAPEL-CARTÃO",
+        "grupo_id": "172"
+    },
+    {
+        "id": "17311",
+        "descricao": "FABRICAÇÃO DE EMBALAGENS DE PAPEL",
+        "grupo_id": "173"
+    },
+    {
+        "id": "17320",
+        "descricao": "FABRICAÇÃO DE EMBALAGENS DE CARTOLINA E PAPEL-CARTÃO",
+        "grupo_id": "173"
+    },
+    {
+        "id": "17338",
+        "descricao": "FABRICAÇÃO DE CHAPAS E DE EMBALAGENS DE PAPELÃO ONDULADO",
+        "grupo_id": "173"
+    },
+    {
+        "id": "23125",
+        "descricao": "FABRICAÇÃO DE EMBALAGENS DE VIDRO",
+        "grupo_id": "231"
+    },
+    {
+        "id": "17419",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE PAPEL, CARTOLINA, PAPEL CARTÃO E PAPELÃO ONDULADO PARA USO COMERCIAL E DE ESCRITÓRIO",
+        "grupo_id": "174"
+    },
+    {
+        "id": "17427",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE PAPEL PARA USOS DOMÉSTICO E HIGIÊNICO-SANITÁRIO",
+        "grupo_id": "174"
+    },
+    {
+        "id": "17494",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE PASTAS CELULÓSICAS, PAPEL, CARTOLINA, PAPEL-CARTÃO E PAPELÃO ONDULADO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "174"
+    },
+    {
+        "id": "18113",
+        "descricao": "IMPRESSÃO DE JORNAIS, LIVROS, REVISTAS E OUTRAS PUBLICAÇÕES PERIÓDICAS",
+        "grupo_id": "181"
+    },
+    {
+        "id": "18121",
+        "descricao": "IMPRESSÃO DE MATERIAL DE SEGURANÇA",
+        "grupo_id": "181"
+    },
+    {
+        "id": "18130",
+        "descricao": "IMPRESSÃO DE MATERIAIS PARA OUTROS USOS",
+        "grupo_id": "181"
+    },
+    {
+        "id": "18211",
+        "descricao": "SERVIÇOS DE PRÉ-IMPRESSÃO",
+        "grupo_id": "182"
+    },
+    {
+        "id": "18229",
+        "descricao": "SERVIÇOS DE ACABAMENTOS GRÁFICOS",
+        "grupo_id": "182"
+    },
+    {
+        "id": "18300",
+        "descricao": "REPRODUÇÃO DE MATERIAIS GRAVADOS EM QUALQUER SUPORTE",
+        "grupo_id": "183"
+    },
+    {
+        "id": "19101",
+        "descricao": "COQUERIAS",
+        "grupo_id": "191"
+    },
+    {
+        "id": "19217",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DO REFINO DE PETRÓLEO",
+        "grupo_id": "192"
+    },
+    {
+        "id": "19225",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DERIVADOS DO PETRÓLEO, EXCETO PRODUTOS DO REFINO",
+        "grupo_id": "192"
+    },
+    {
+        "id": "19314",
+        "descricao": "FABRICAÇÃO DE ÁLCOOL",
+        "grupo_id": "193"
+    },
+    {
+        "id": "19322",
+        "descricao": "FABRICAÇÃO DE BIOCOMBUSTÍVEIS, EXCETO ÁLCOOL",
+        "grupo_id": "193"
+    },
+    {
+        "id": "20118",
+        "descricao": "FABRICAÇÃO DE CLORO E ÁLCALIS",
+        "grupo_id": "201"
+    },
+    {
+        "id": "20126",
+        "descricao": "FABRICAÇÃO DE INTERMEDIÁRIOS PARA FERTILIZANTES",
+        "grupo_id": "201"
+    },
+    {
+        "id": "20134",
+        "descricao": "FABRICAÇÃO DE ADUBOS E FERTILIZANTES",
+        "grupo_id": "201"
+    },
+    {
+        "id": "20142",
+        "descricao": "FABRICAÇÃO DE GASES INDUSTRIAIS",
+        "grupo_id": "201"
+    },
+    {
+        "id": "20193",
+        "descricao": "FABRICAÇÃO DE PRODUTOS QUÍMICOS INORGÂNICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "201"
+    },
+    {
+        "id": "20215",
+        "descricao": "FABRICAÇÃO DE PRODUTOS PETROQUÍMICOS BÁSICOS",
+        "grupo_id": "202"
+    },
+    {
+        "id": "20223",
+        "descricao": "FABRICAÇÃO DE INTERMEDIÁRIOS PARA PLASTIFICANTES, RESINAS E FIBRAS",
+        "grupo_id": "202"
+    },
+    {
+        "id": "20291",
+        "descricao": "FABRICAÇÃO DE PRODUTOS QUÍMICOS ORGÂNICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "202"
+    },
+    {
+        "id": "20312",
+        "descricao": "FABRICAÇÃO DE RESINAS TERMOPLÁSTICAS",
+        "grupo_id": "203"
+    },
+    {
+        "id": "20321",
+        "descricao": "FABRICAÇÃO DE RESINAS TERMOFIXAS",
+        "grupo_id": "203"
+    },
+    {
+        "id": "32914",
+        "descricao": "FABRICAÇÃO DE ESCOVAS, PINCÉIS E VASSOURAS",
+        "grupo_id": "329"
+    },
+    {
+        "id": "20401",
+        "descricao": "FABRICAÇÃO DE FIBRAS ARTIFICIAIS E SINTÉTICAS",
+        "grupo_id": "204"
+    },
+    {
+        "id": "20517",
+        "descricao": "FABRICAÇÃO DE DEFENSIVOS AGRÍCOLAS",
+        "grupo_id": "205"
+    },
+    {
+        "id": "20525",
+        "descricao": "FABRICAÇÃO DE DESINFESTANTES DOMISSANITÁRIOS",
+        "grupo_id": "205"
+    },
+    {
+        "id": "20614",
+        "descricao": "FABRICAÇÃO DE SABÕES E DETERGENTES SINTÉTICOS",
+        "grupo_id": "206"
+    },
+    {
+        "id": "20622",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE LIMPEZA E POLIMENTO",
+        "grupo_id": "206"
+    },
+    {
+        "id": "20631",
+        "descricao": "FABRICAÇÃO DE COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL",
+        "grupo_id": "206"
+    },
+    {
+        "id": "20711",
+        "descricao": "FABRICAÇÃO DE TINTAS, VERNIZES, ESMALTES E LACAS",
+        "grupo_id": "207"
+    },
+    {
+        "id": "20720",
+        "descricao": "FABRICAÇÃO DE TINTAS DE IMPRESSÃO",
+        "grupo_id": "207"
+    },
+    {
+        "id": "20738",
+        "descricao": "FABRICAÇÃO DE IMPERMEABILIZANTES, SOLVENTES E PRODUTOS AFINS",
+        "grupo_id": "207"
+    },
+    {
+        "id": "20916",
+        "descricao": "FABRICAÇÃO DE ADESIVOS E SELANTES",
+        "grupo_id": "209"
+    },
+    {
+        "id": "20924",
+        "descricao": "FABRICAÇÃO DE EXPLOSIVOS",
+        "grupo_id": "209"
+    },
+    {
+        "id": "20932",
+        "descricao": "FABRICAÇÃO DE ADITIVOS DE USO INDUSTRIAL",
+        "grupo_id": "209"
+    },
+    {
+        "id": "20941",
+        "descricao": "FABRICAÇÃO DE CATALISADORES",
+        "grupo_id": "209"
+    },
+    {
+        "id": "20991",
+        "descricao": "FABRICAÇÃO DE PRODUTOS QUÍMICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "209"
+    },
+    {
+        "id": "27511",
+        "descricao": "FABRICAÇÃO DE FOGÕES, REFRIGERADORES E MÁQUINAS DE LAVAR E SECAR PARA USO DOMÉSTICO",
+        "grupo_id": "275"
+    },
+    {
+        "id": "21106",
+        "descricao": "FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS",
+        "grupo_id": "211"
+    },
+    {
+        "id": "21211",
+        "descricao": "FABRICAÇÃO DE MEDICAMENTOS PARA USO HUMANO",
+        "grupo_id": "212"
+    },
+    {
+        "id": "21220",
+        "descricao": "FABRICAÇÃO DE MEDICAMENTOS PARA USO VETERINÁRIO",
+        "grupo_id": "212"
+    },
+    {
+        "id": "21238",
+        "descricao": "FABRICAÇÃO DE PREPARAÇÕES FARMACÊUTICAS",
+        "grupo_id": "212"
+    },
+    {
+        "id": "22111",
+        "descricao": "FABRICAÇÃO DE PNEUMÁTICOS E DE CÂMARAS-DE-AR",
+        "grupo_id": "221"
+    },
+    {
+        "id": "22129",
+        "descricao": "REFORMA DE PNEUMÁTICOS USADOS",
+        "grupo_id": "221"
+    },
+    {
+        "id": "22196",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE BORRACHA NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "221"
+    },
+    {
+        "id": "22218",
+        "descricao": "FABRICAÇÃO DE LAMINADOS PLANOS E TUBULARES DE MATERIAL PLÁSTICO",
+        "grupo_id": "222"
+    },
+    {
+        "id": "22226",
+        "descricao": "FABRICAÇÃO DE EMBALAGENS DE MATERIAL PLÁSTICO",
+        "grupo_id": "222"
+    },
+    {
+        "id": "22234",
+        "descricao": "FABRICAÇÃO DE TUBOS E ACESSÓRIOS DE MATERIAL PLÁSTICO PARA USO NA CONSTRUÇÃO",
+        "grupo_id": "222"
+    },
+    {
+        "id": "22293",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE MATERIAL PLÁSTICO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "222"
+    },
+    {
+        "id": "23117",
+        "descricao": "FABRICAÇÃO DE VIDRO PLANO E DE SEGURANÇA",
+        "grupo_id": "231"
+    },
+    {
+        "id": "23192",
+        "descricao": "FABRICAÇÃO DE ARTIGOS DE VIDRO",
+        "grupo_id": "231"
+    },
+    {
+        "id": "23206",
+        "descricao": "FABRICAÇÃO DE CIMENTO",
+        "grupo_id": "232"
+    },
+    {
+        "id": "23303",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE CONCRETO, CIMENTO, FIBROCIMENTO, GESSO E MATERIAIS SEMELHANTES",
+        "grupo_id": "233"
+    },
+    {
+        "id": "23419",
+        "descricao": "FABRICAÇÃO DE PRODUTOS CERÂMICOS REFRATÁRIOS",
+        "grupo_id": "234"
+    },
+    {
+        "id": "23427",
+        "descricao": "FABRICAÇÃO DE PRODUTOS CERÂMICOS NÃO-REFRATÁRIOS PARA USO ESTRUTURAL NA CONSTRUÇÃO",
+        "grupo_id": "234"
+    },
+    {
+        "id": "23494",
+        "descricao": "FABRICAÇÃO DE PRODUTOS CERÂMICOS NÃO-REFRATÁRIOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "234"
+    },
+    {
+        "id": "23915",
+        "descricao": "APARELHAMENTO E OUTROS TRABALHOS EM PEDRAS",
+        "grupo_id": "239"
+    },
+    {
+        "id": "23923",
+        "descricao": "FABRICAÇÃO DE CAL E GESSO",
+        "grupo_id": "239"
+    },
+    {
+        "id": "23991",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "239"
+    },
+    {
+        "id": "24113",
+        "descricao": "PRODUÇÃO DE FERRO-GUSA",
+        "grupo_id": "241"
+    },
+    {
+        "id": "24121",
+        "descricao": "PRODUÇÃO DE FERROLIGAS",
+        "grupo_id": "241"
+    },
+    {
+        "id": "46460",
+        "descricao": "COMÉRCIO ATACADISTA DE COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL",
+        "grupo_id": "464"
+    },
+    {
+        "id": "24211",
+        "descricao": "PRODUÇÃO DE SEMI-ACABADOS DE AÇO",
+        "grupo_id": "242"
+    },
+    {
+        "id": "24229",
+        "descricao": "PRODUÇÃO DE LAMINADOS PLANOS DE AÇO",
+        "grupo_id": "242"
+    },
+    {
+        "id": "24237",
+        "descricao": "PRODUÇÃO DE LAMINADOS LONGOS DE AÇO",
+        "grupo_id": "242"
+    },
+    {
+        "id": "24245",
+        "descricao": "PRODUÇÃO DE RELAMINADOS, TREFILADOS E PERFILADOS DE AÇO",
+        "grupo_id": "242"
+    },
+    {
+        "id": "24318",
+        "descricao": "PRODUÇÃO DE CANOS E TUBOS COM COSTURA",
+        "grupo_id": "243"
+    },
+    {
+        "id": "24393",
+        "descricao": "PRODUÇÃO DE OUTROS TUBOS DE FERRO E AÇO",
+        "grupo_id": "243"
+    },
+    {
+        "id": "24415",
+        "descricao": "METALURGIA DO ALUMÍNIO E SUAS LIGAS",
+        "grupo_id": "244"
+    },
+    {
+        "id": "24423",
+        "descricao": "METALURGIA DOS METAIS PRECIOSOS",
+        "grupo_id": "244"
+    },
+    {
+        "id": "24431",
+        "descricao": "METALURGIA DO COBRE",
+        "grupo_id": "244"
+    },
+    {
+        "id": "24491",
+        "descricao": "METALURGIA DOS METAIS NÃO-FERROSOS E SUAS LIGAS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "244"
+    },
+    {
+        "id": "24512",
+        "descricao": "FUNDIÇÃO DE FERRO E AÇO",
+        "grupo_id": "245"
+    },
+    {
+        "id": "24521",
+        "descricao": "FUNDIÇÃO DE METAIS NÃO-FERROSOS E SUAS LIGAS",
+        "grupo_id": "245"
+    },
+    {
+        "id": "25110",
+        "descricao": "FABRICAÇÃO DE ESTRUTURAS METÁLICAS",
+        "grupo_id": "251"
+    },
+    {
+        "id": "25128",
+        "descricao": "FABRICAÇÃO DE ESQUADRIAS DE METAL",
+        "grupo_id": "251"
+    },
+    {
+        "id": "25136",
+        "descricao": "FABRICAÇÃO DE OBRAS DE CALDEIRARIA PESADA",
+        "grupo_id": "251"
+    },
+    {
+        "id": "25217",
+        "descricao": "FABRICAÇÃO DE TANQUES, RESERVATÓRIOS METÁLICOS E CALDEIRAS PARA AQUECIMENTO CENTRAL",
+        "grupo_id": "252"
+    },
+    {
+        "id": "25225",
+        "descricao": "FABRICAÇÃO DE CALDEIRAS GERADORAS DE VAPOR, EXCETO PARA AQUECIMENTO CENTRAL E PARA VEÍCULOS",
+        "grupo_id": "252"
+    },
+    {
+        "id": "25314",
+        "descricao": "PRODUÇÃO DE FORJADOS DE AÇO E DE METAIS NÃO-FERROSOS E SUAS LIGAS",
+        "grupo_id": "253"
+    },
+    {
+        "id": "25322",
+        "descricao": "PRODUÇÃO DE ARTEFATOS ESTAMPADOS DE METAL; METALURGIA DO PÓ",
+        "grupo_id": "253"
+    },
+    {
+        "id": "25390",
+        "descricao": "SERVIÇOS DE USINAGEM, SOLDA, TRATAMENTO E REVESTIMENTO EM METAIS",
+        "grupo_id": "253"
+    },
+    {
+        "id": "25411",
+        "descricao": "FABRICAÇÃO DE ARTIGOS DE CUTELARIA",
+        "grupo_id": "254"
+    },
+    {
+        "id": "25420",
+        "descricao": "FABRICAÇÃO DE ARTIGOS DE SERRALHERIA, EXCETO ESQUADRIAS",
+        "grupo_id": "254"
+    },
+    {
+        "id": "25438",
+        "descricao": "FABRICAÇÃO DE FERRAMENTAS",
+        "grupo_id": "254"
+    },
+    {
+        "id": "25501",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTO BÉLICO PESADO, ARMAS E MUNIÇÕES",
+        "grupo_id": "255"
+    },
+    {
+        "id": "25918",
+        "descricao": "FABRICAÇÃO DE EMBALAGENS METÁLICAS",
+        "grupo_id": "259"
+    },
+    {
+        "id": "25926",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE TREFILADOS DE METAL",
+        "grupo_id": "259"
+    },
+    {
+        "id": "25934",
+        "descricao": "FABRICAÇÃO DE ARTIGOS DE METAL PARA USO DOMÉSTICO E PESSOAL",
+        "grupo_id": "259"
+    },
+    {
+        "id": "25993",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "259"
+    },
+    {
+        "id": "26108",
+        "descricao": "FABRICAÇÃO DE COMPONENTES ELETRÔNICOS",
+        "grupo_id": "261"
+    },
+    {
+        "id": "26213",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA",
+        "grupo_id": "262"
+    },
+    {
+        "id": "26221",
+        "descricao": "FABRICAÇÃO DE PERIFÉRICOS PARA EQUIPAMENTOS DE INFORMÁTICA",
+        "grupo_id": "262"
+    },
+    {
+        "id": "26311",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS TRANSMISSORES DE COMUNICAÇÃO",
+        "grupo_id": "263"
+    },
+    {
+        "id": "26329",
+        "descricao": "FABRICAÇÃO DE APARELHOS TELEFÔNICOS E DE OUTROS EQUIPAMENTOS DE COMUNICAÇÃO",
+        "grupo_id": "263"
+    },
+    {
+        "id": "26400",
+        "descricao": "FABRICAÇÃO DE APARELHOS DE RECEPÇÃO, REPRODUÇÃO, GRAVAÇÃO E AMPLIFICAÇÃO DE ÁUDIO E VÍDEO",
+        "grupo_id": "264"
+    },
+    {
+        "id": "26515",
+        "descricao": "FABRICAÇÃO DE APARELHOS E EQUIPAMENTOS DE MEDIDA, TESTE E CONTROLE",
+        "grupo_id": "265"
+    },
+    {
+        "id": "26523",
+        "descricao": "FABRICAÇÃO DE CRONÔMETROS E RELÓGIOS",
+        "grupo_id": "265"
+    },
+    {
+        "id": "26604",
+        "descricao": "FABRICAÇÃO DE APARELHOS ELETROMÉDICOS E ELETROTERAPÊUTICOS E EQUIPAMENTOS DE IRRADIAÇÃO",
+        "grupo_id": "266"
+    },
+    {
+        "id": "26701",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS ÓPTICOS, FOTOGRÁFICOS E CINEMATOGRÁFICOS",
+        "grupo_id": "267"
+    },
+    {
+        "id": "26809",
+        "descricao": "FABRICAÇÃO DE MÍDIAS VIRGENS, MAGNÉTICAS E ÓPTICAS",
+        "grupo_id": "268"
+    },
+    {
+        "id": "27104",
+        "descricao": "FABRICAÇÃO DE GERADORES, TRANSFORMADORES E MOTORES ELÉTRICOS",
+        "grupo_id": "271"
+    },
+    {
+        "id": "27210",
+        "descricao": "FABRICAÇÃO DE PILHAS, BATERIAS E ACUMULADORES ELÉTRICOS, EXCETO PARA VEÍCULOS AUTOMOTORES",
+        "grupo_id": "272"
+    },
+    {
+        "id": "27228",
+        "descricao": "FABRICAÇÃO DE BATERIAS E ACUMULADORES PARA VEÍCULOS AUTOMOTORES",
+        "grupo_id": "272"
+    },
+    {
+        "id": "27317",
+        "descricao": "FABRICAÇÃO DE APARELHOS E EQUIPAMENTOS PARA DISTRIBUIÇÃO E CONTROLE DE ENERGIA ELÉTRICA",
+        "grupo_id": "273"
+    },
+    {
+        "id": "27325",
+        "descricao": "FABRICAÇÃO DE MATERIAL ELÉTRICO PARA INSTALAÇÕES EM CIRCUITO DE CONSUMO",
+        "grupo_id": "273"
+    },
+    {
+        "id": "27333",
+        "descricao": "FABRICAÇÃO DE FIOS, CABOS E CONDUTORES ELÉTRICOS ISOLADOS",
+        "grupo_id": "273"
+    },
+    {
+        "id": "27406",
+        "descricao": "FABRICAÇÃO DE LÂMPADAS E OUTROS EQUIPAMENTOS DE ILUMINAÇÃO",
+        "grupo_id": "274"
+    },
+    {
+        "id": "27597",
+        "descricao": "FABRICAÇÃO DE APARELHOS ELETRODOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "275"
+    },
+    {
+        "id": "27902",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS E APARELHOS ELÉTRICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "279"
+    },
+    {
+        "id": "28119",
+        "descricao": "FABRICAÇÃO DE MOTORES E TURBINAS, EXCETO PARA AVIÕES E VEÍCULOS RODOVIÁRIOS",
+        "grupo_id": "281"
+    },
+    {
+        "id": "28127",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS HIDRÁULICOS E PNEUMÁTICOS, EXCETO VÁLVULAS",
+        "grupo_id": "281"
+    },
+    {
+        "id": "28135",
+        "descricao": "FABRICAÇÃO DE VÁLVULAS, REGISTROS E DISPOSITIVOS SEMELHANTES",
+        "grupo_id": "281"
+    },
+    {
+        "id": "28143",
+        "descricao": "FABRICAÇÃO DE COMPRESSORES",
+        "grupo_id": "281"
+    },
+    {
+        "id": "28151",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS DE TRANSMISSÃO PARA FINS INDUSTRIAIS",
+        "grupo_id": "281"
+    },
+    {
+        "id": "28321",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS PARA IRRIGAÇÃO AGRÍCOLA",
+        "grupo_id": "283"
+    },
+    {
+        "id": "28216",
+        "descricao": "FABRICAÇÃO DE APARELHOS E EQUIPAMENTOS PARA INSTALAÇÕES TÉRMICAS",
+        "grupo_id": "282"
+    },
+    {
+        "id": "28224",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS, EQUIPAMENTOS E APARELHOS PARA TRANSPORTE E ELEVAÇÃO DE CARGAS E PESSOAS",
+        "grupo_id": "282"
+    },
+    {
+        "id": "28232",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E APARELHOS DE REFRIGERAÇÃO E VENTILAÇÃO PARA USO INDUSTRIAL E COMERCIAL",
+        "grupo_id": "282"
+    },
+    {
+        "id": "28241",
+        "descricao": "FABRICAÇÃO DE APARELHOS E EQUIPAMENTOS DE AR CONDICIONADO",
+        "grupo_id": "282"
+    },
+    {
+        "id": "28259",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA SANEAMENTO BÁSICO E AMBIENTAL",
+        "grupo_id": "282"
+    },
+    {
+        "id": "28291",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS DE USO GERAL NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "282"
+    },
+    {
+        "id": "28313",
+        "descricao": "FABRICAÇÃO DE TRATORES AGRÍCOLAS",
+        "grupo_id": "283"
+    },
+    {
+        "id": "28330",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA A AGRICULTURA E PECUÁRIA, EXCETO PARA IRRIGAÇÃO",
+        "grupo_id": "283"
+    },
+    {
+        "id": "28402",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS-FERRAMENTA",
+        "grupo_id": "284"
+    },
+    {
+        "id": "28518",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA A PROSPECÇÃO E EXTRAÇÃO DE PETRÓLEO",
+        "grupo_id": "285"
+    },
+    {
+        "id": "28526",
+        "descricao": "FABRICAÇÃO DE OUTRAS MÁQUINAS E EQUIPAMENTOS PARA USO NA EXTRAÇÃO MINERAL, EXCETO NA EXTRAÇÃO DE PETRÓLEO",
+        "grupo_id": "285"
+    },
+    {
+        "id": "28534",
+        "descricao": "FABRICAÇÃO DE TRATORES, EXCETO AGRÍCOLAS",
+        "grupo_id": "285"
+    },
+    {
+        "id": "28542",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA TERRAPLENAGEM, PAVIMENTAÇÃO E CONSTRUÇÃO, EXCETO TRATORES",
+        "grupo_id": "285"
+    },
+    {
+        "id": "28615",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS PARA A INDÚSTRIA METALÚRGICA, EXCETO MÁQUINAS-FERRAMENTA",
+        "grupo_id": "286"
+    },
+    {
+        "id": "28623",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA AS INDÚSTRIAS DE ALIMENTOS, BEBIDAS E FUMO",
+        "grupo_id": "286"
+    },
+    {
+        "id": "28631",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA A INDÚSTRIA TÊXTIL",
+        "grupo_id": "286"
+    },
+    {
+        "id": "28640",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA AS INDÚSTRIAS DO VESTUÁRIO, DO COURO E DE CALÇADOS",
+        "grupo_id": "286"
+    },
+    {
+        "id": "28658",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA AS INDÚSTRIAS DE CELULOSE, PAPEL E PAPELÃO E ARTEFATOS",
+        "grupo_id": "286"
+    },
+    {
+        "id": "30997",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS DE TRANSPORTE NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "309"
+    },
+    {
+        "id": "28666",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA A INDÚSTRIA DO PLÁSTICO",
+        "grupo_id": "286"
+    },
+    {
+        "id": "28691",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA USO INDUSTRIAL ESPECÍFICO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "286"
+    },
+    {
+        "id": "29107",
+        "descricao": "FABRICAÇÃO DE AUTOMÓVEIS, CAMIONETAS E UTILITÁRIOS",
+        "grupo_id": "291"
+    },
+    {
+        "id": "29204",
+        "descricao": "FABRICAÇÃO DE CAMINHÕES E ÔNIBUS",
+        "grupo_id": "292"
+    },
+    {
+        "id": "29301",
+        "descricao": "FABRICAÇÃO DE CABINES, CARROCERIAS E REBOQUES PARA VEÍCULOS AUTOMOTORES",
+        "grupo_id": "293"
+    },
+    {
+        "id": "29417",
+        "descricao": "FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA O SISTEMA MOTOR DE VEÍCULOS AUTOMOTORES",
+        "grupo_id": "294"
+    },
+    {
+        "id": "29425",
+        "descricao": "FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA OS SISTEMAS DE MARCHA E TRANSMISSÃO DE VEÍCULOS AUTOMOTORES",
+        "grupo_id": "294"
+    },
+    {
+        "id": "29433",
+        "descricao": "FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA O SISTEMA DE FREIOS DE VEÍCULOS AUTOMOTORES",
+        "grupo_id": "294"
+    },
+    {
+        "id": "29441",
+        "descricao": "FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA O SISTEMA DE DIREÇÃO E SUSPENSÃO DE VEÍCULOS AUTOMOTORES",
+        "grupo_id": "294"
+    },
+    {
+        "id": "29450",
+        "descricao": "FABRICAÇÃO DE MATERIAL ELÉTRICO E ELETRÔNICO PARA VEÍCULOS AUTOMOTORES, EXCETO BATERIAS",
+        "grupo_id": "294"
+    },
+    {
+        "id": "29492",
+        "descricao": "FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "294"
+    },
+    {
+        "id": "29506",
+        "descricao": "RECONDICIONAMENTO E RECUPERAÇÃO DE MOTORES PARA VEÍCULOS AUTOMOTORES",
+        "grupo_id": "295"
+    },
+    {
+        "id": "30113",
+        "descricao": "CONSTRUÇÃO DE EMBARCAÇÕES E ESTRUTURAS FLUTUANTES",
+        "grupo_id": "301"
+    },
+    {
+        "id": "30121",
+        "descricao": "CONSTRUÇÃO DE EMBARCAÇÕES PARA ESPORTE E LAZER",
+        "grupo_id": "301"
+    },
+    {
+        "id": "30318",
+        "descricao": "FABRICAÇÃO DE LOCOMOTIVAS, VAGÕES E OUTROS MATERIAIS RODANTES",
+        "grupo_id": "303"
+    },
+    {
+        "id": "30326",
+        "descricao": "FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS FERROVIÁRIOS",
+        "grupo_id": "303"
+    },
+    {
+        "id": "30415",
+        "descricao": "FABRICAÇÃO DE AERONAVES",
+        "grupo_id": "304"
+    },
+    {
+        "id": "30423",
+        "descricao": "FABRICAÇÃO DE TURBINAS, MOTORES E OUTROS COMPONENTES E PEÇAS PARA AERONAVES",
+        "grupo_id": "304"
+    },
+    {
+        "id": "30504",
+        "descricao": "FABRICAÇÃO DE VEÍCULOS MILITARES DE COMBATE",
+        "grupo_id": "305"
+    },
+    {
+        "id": "30911",
+        "descricao": "FABRICAÇÃO DE MOTOCICLETAS",
+        "grupo_id": "309"
+    },
+    {
+        "id": "30920",
+        "descricao": "FABRICAÇÃO DE BICICLETAS E TRICICLOS NÃO-MOTORIZADOS",
+        "grupo_id": "309"
+    },
+    {
+        "id": "31012",
+        "descricao": "FABRICAÇÃO DE MÓVEIS COM PREDOMINÂNCIA DE MADEIRA",
+        "grupo_id": "310"
+    },
+    {
+        "id": "31021",
+        "descricao": "FABRICAÇÃO DE MÓVEIS COM PREDOMINÂNCIA DE METAL",
+        "grupo_id": "310"
+    },
+    {
+        "id": "31039",
+        "descricao": "FABRICAÇÃO DE MÓVEIS DE OUTROS MATERIAIS, EXCETO MADEIRA E METAL",
+        "grupo_id": "310"
+    },
+    {
+        "id": "31047",
+        "descricao": "FABRICAÇÃO DE COLCHÕES",
+        "grupo_id": "310"
+    },
+    {
+        "id": "32116",
+        "descricao": "LAPIDAÇÃO DE GEMAS E FABRICAÇÃO DE ARTEFATOS DE OURIVESARIA E JOALHERIA",
+        "grupo_id": "321"
+    },
+    {
+        "id": "32124",
+        "descricao": "FABRICAÇÃO DE BIJUTERIAS E ARTEFATOS SEMELHANTES",
+        "grupo_id": "321"
+    },
+    {
+        "id": "32205",
+        "descricao": "FABRICAÇÃO DE INSTRUMENTOS MUSICAIS",
+        "grupo_id": "322"
+    },
+    {
+        "id": "32302",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS PARA PESCA E ESPORTE",
+        "grupo_id": "323"
+    },
+    {
+        "id": "32400",
+        "descricao": "FABRICAÇÃO DE BRINQUEDOS E JOGOS RECREATIVOS",
+        "grupo_id": "324"
+    },
+    {
+        "id": "32507",
+        "descricao": "FABRICAÇÃO DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO E ODONTOLÓGICO E DE ARTIGOS ÓPTICOS",
+        "grupo_id": "325"
+    },
+    {
+        "id": "32922",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS E ACESSÓRIOS PARA SEGURANÇA E PROTEÇÃO PESSOAL E PROFISSIONAL",
+        "grupo_id": "329"
+    },
+    {
+        "id": "32990",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DIVERSOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "329"
+    },
+    {
+        "id": "33112",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE TANQUES, RESERVATÓRIOS METÁLICOS E CALDEIRAS, EXCETO PARA VEÍCULOS",
+        "grupo_id": "331"
+    },
+    {
+        "id": "33121",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS ELETRÔNICOS E ÓPTICOS",
+        "grupo_id": "331"
+    },
+    {
+        "id": "33139",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS ELÉTRICOS",
+        "grupo_id": "331"
+    },
+    {
+        "id": "33147",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS DA INDÚSTRIA MECÂNICA",
+        "grupo_id": "331"
+    },
+    {
+        "id": "33155",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE VEÍCULOS FERROVIÁRIOS",
+        "grupo_id": "331"
+    },
+    {
+        "id": "33163",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE AERONAVES",
+        "grupo_id": "331"
+    },
+    {
+        "id": "47571",
+        "descricao": "COMÉRCIO VAREJISTA ESPECIALIZADO DE PEÇAS E ACESSÓRIOS PARA APARELHOS ELETROELETRÔNICOS PARA USO DOMÉSTICO, EXCETO INFORMÁTICA E COMUNICAÇÃO",
+        "grupo_id": "475"
+    },
+    {
+        "id": "33171",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE EMBARCAÇÕES",
+        "grupo_id": "331"
+    },
+    {
+        "id": "33198",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS E PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "331"
+    },
+    {
+        "id": "33210",
+        "descricao": "INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS INDUSTRIAIS",
+        "grupo_id": "332"
+    },
+    {
+        "id": "33295",
+        "descricao": "INSTALAÇÃO DE EQUIPAMENTOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "332"
+    },
+    {
+        "id": "35115",
+        "descricao": "GERAÇÃO DE ENERGIA ELÉTRICA",
+        "grupo_id": "351"
+    },
+    {
+        "id": "35123",
+        "descricao": "TRANSMISSÃO DE ENERGIA ELÉTRICA",
+        "grupo_id": "351"
+    },
+    {
+        "id": "35131",
+        "descricao": "COMÉRCIO ATACADISTA DE ENERGIA ELÉTRICA",
+        "grupo_id": "351"
+    },
+    {
+        "id": "35140",
+        "descricao": "DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+        "grupo_id": "351"
+    },
+    {
+        "id": "38211",
+        "descricao": "TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS NÃO-PERIGOSOS",
+        "grupo_id": "382"
+    },
+    {
+        "id": "50220",
+        "descricao": "TRANSPORTE POR NAVEGAÇÃO INTERIOR DE PASSAGEIROS EM LINHAS REGULARES",
+        "grupo_id": "502"
+    },
+    {
+        "id": "35204",
+        "descricao": "PRODUÇÃO DE GÁS; PROCESSAMENTO DE GÁS NATURAL; DISTRIBUIÇÃO DE COMBUSTÍVEIS GASOSOS POR REDES URBANAS",
+        "grupo_id": "352"
+    },
+    {
+        "id": "35301",
+        "descricao": "PRODUÇÃO E DISTRIBUIÇÃO DE VAPOR, ÁGUA QUENTE E AR CONDICIONADO",
+        "grupo_id": "353"
+    },
+    {
+        "id": "36006",
+        "descricao": "CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA",
+        "grupo_id": "360"
+    },
+    {
+        "id": "37011",
+        "descricao": "GESTÃO DE REDES DE ESGOTO",
+        "grupo_id": "370"
+    },
+    {
+        "id": "37029",
+        "descricao": "ATIVIDADES RELACIONADAS A ESGOTO, EXCETO A GESTÃO DE REDES",
+        "grupo_id": "370"
+    },
+    {
+        "id": "38114",
+        "descricao": "COLETA DE RESÍDUOS NÃO-PERIGOSOS",
+        "grupo_id": "381"
+    },
+    {
+        "id": "38122",
+        "descricao": "COLETA DE RESÍDUOS PERIGOSOS",
+        "grupo_id": "381"
+    },
+    {
+        "id": "58212",
+        "descricao": "EDIÇÃO INTEGRADA À IMPRESSÃO DE LIVROS",
+        "grupo_id": "582"
+    },
+    {
+        "id": "38220",
+        "descricao": "TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS PERIGOSOS",
+        "grupo_id": "382"
+    },
+    {
+        "id": "38319",
+        "descricao": "RECUPERAÇÃO DE MATERIAIS METÁLICOS",
+        "grupo_id": "383"
+    },
+    {
+        "id": "38327",
+        "descricao": "RECUPERAÇÃO DE MATERIAIS PLÁSTICOS",
+        "grupo_id": "383"
+    },
+    {
+        "id": "38394",
+        "descricao": "RECUPERAÇÃO DE MATERIAIS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "383"
+    },
+    {
+        "id": "39005",
+        "descricao": "DESCONTAMINAÇÃO E OUTROS SERVIÇOS DE GESTÃO DE RESÍDUOS",
+        "grupo_id": "390"
+    },
+    {
+        "id": "41107",
+        "descricao": "INCORPORAÇÃO DE EMPREENDIMENTOS IMOBILIÁRIOS",
+        "grupo_id": "411"
+    },
+    {
+        "id": "42235",
+        "descricao": "CONSTRUÇÃO DE REDES DE TRANSPORTES POR DUTOS, EXCETO PARA ÁGUA E ESGOTO",
+        "grupo_id": "422"
+    },
+    {
+        "id": "58221",
+        "descricao": "EDIÇÃO INTEGRADA À IMPRESSÃO DE JORNAIS",
+        "grupo_id": "582"
+    },
+    {
+        "id": "41204",
+        "descricao": "CONSTRUÇÃO DE EDIFÍCIOS",
+        "grupo_id": "412"
+    },
+    {
+        "id": "42111",
+        "descricao": "CONSTRUÇÃO DE RODOVIAS E FERROVIAS",
+        "grupo_id": "421"
+    },
+    {
+        "id": "42120",
+        "descricao": "CONSTRUÇÃO DE OBRAS-DE-ARTE ESPECIAIS",
+        "grupo_id": "421"
+    },
+    {
+        "id": "42138",
+        "descricao": "OBRAS DE URBANIZAÇÃO - RUAS, PRAÇAS E CALÇADAS",
+        "grupo_id": "421"
+    },
+    {
+        "id": "42219",
+        "descricao": "OBRAS PARA GERAÇÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA E PARA TELECOMUNICAÇÕES",
+        "grupo_id": "422"
+    },
+    {
+        "id": "42227",
+        "descricao": "CONSTRUÇÃO DE REDES DE ABASTECIMENTO DE ÁGUA, COLETA DE ESGOTO E CONSTRUÇÕES CORRELATAS",
+        "grupo_id": "422"
+    },
+    {
+        "id": "42910",
+        "descricao": "OBRAS PORTUÁRIAS, MARÍTIMAS E FLUVIAIS",
+        "grupo_id": "429"
+    },
+    {
+        "id": "42928",
+        "descricao": "MONTAGEM DE INSTALAÇÕES INDUSTRIAIS E DE ESTRUTURAS METÁLICAS",
+        "grupo_id": "429"
+    },
+    {
+        "id": "42995",
+        "descricao": "OBRAS DE ENGENHARIA CIVIL NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "429"
+    },
+    {
+        "id": "43118",
+        "descricao": "DEMOLIÇÃO E PREPARAÇÃO DE CANTEIROS DE OBRAS",
+        "grupo_id": "431"
+    },
+    {
+        "id": "43126",
+        "descricao": "PERFURAÇÕES E SONDAGENS",
+        "grupo_id": "431"
+    },
+    {
+        "id": "43134",
+        "descricao": "OBRAS DE TERRAPLENAGEM",
+        "grupo_id": "431"
+    },
+    {
+        "id": "43193",
+        "descricao": "SERVIÇOS DE PREPARAÇÃO DO TERRENO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "431"
+    },
+    {
+        "id": "43215",
+        "descricao": "INSTALAÇÕES ELÉTRICAS",
+        "grupo_id": "432"
+    },
+    {
+        "id": "47229",
+        "descricao": "COMÉRCIO VAREJISTA DE CARNES E PESCADOS - AÇOUGUES E PEIXARIAS",
+        "grupo_id": "472"
+    },
+    {
+        "id": "43223",
+        "descricao": "INSTALAÇÕES HIDRÁULICAS, DE SISTEMAS DE VENTILAÇÃO E REFRIGERAÇÃO",
+        "grupo_id": "432"
+    },
+    {
+        "id": "43291",
+        "descricao": "OBRAS DE INSTALAÇÕES EM CONSTRUÇÕES NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "432"
+    },
+    {
+        "id": "43304",
+        "descricao": "OBRAS DE ACABAMENTO",
+        "grupo_id": "433"
+    },
+    {
+        "id": "43916",
+        "descricao": "OBRAS DE FUNDAÇÕES",
+        "grupo_id": "439"
+    },
+    {
+        "id": "43991",
+        "descricao": "SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "439"
+    },
+    {
+        "id": "47237",
+        "descricao": "COMÉRCIO VAREJISTA DE BEBIDAS",
+        "grupo_id": "472"
+    },
+    {
+        "id": "45111",
+        "descricao": "COMÉRCIO A VAREJO E POR ATACADO DE VEÍCULOS AUTOMOTORES",
+        "grupo_id": "451"
+    },
+    {
+        "id": "45129",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE VEÍCULOS AUTOMOTORES",
+        "grupo_id": "451"
+    },
+    {
+        "id": "45200",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES",
+        "grupo_id": "452"
+    },
+    {
+        "id": "45307",
+        "descricao": "COMÉRCIO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES",
+        "grupo_id": "453"
+    },
+    {
+        "id": "45412",
+        "descricao": "COMÉRCIO POR ATACADO E A VAREJO DE MOTOCICLETAS, PEÇAS E ACESSÓRIOS",
+        "grupo_id": "454"
+    },
+    {
+        "id": "45421",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE MOTOCICLETAS, PEÇAS E ACESSÓRIOS",
+        "grupo_id": "454"
+    },
+    {
+        "id": "45439",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE MOTOCICLETAS",
+        "grupo_id": "454"
+    },
+    {
+        "id": "46117",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE MATÉRIAS-PRIMAS AGRÍCOLAS E ANIMAIS VIVOS",
+        "grupo_id": "461"
+    },
+    {
+        "id": "46125",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE COMBUSTÍVEIS, MINERAIS, PRODUTOS SIDERÚRGICOS E QUÍMICOS",
+        "grupo_id": "461"
+    },
+    {
+        "id": "47245",
+        "descricao": "COMÉRCIO VAREJISTA DE HORTIFRUTIGRANJEIROS",
+        "grupo_id": "472"
+    },
+    {
+        "id": "46133",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE MADEIRA, MATERIAL DE CONSTRUÇÃO E FERRAGENS",
+        "grupo_id": "461"
+    },
+    {
+        "id": "46141",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE MÁQUINAS, EQUIPAMENTOS, EMBARCAÇÕES E AERONAVES",
+        "grupo_id": "461"
+    },
+    {
+        "id": "46150",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE ELETRODOMÉSTICOS, MÓVEIS E ARTIGOS DE USO DOMÉSTICO",
+        "grupo_id": "461"
+    },
+    {
+        "id": "46168",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE TÊXTEIS, VESTUÁRIO, CALÇADOS E ARTIGOS DE VIAGEM",
+        "grupo_id": "461"
+    },
+    {
+        "id": "46176",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO",
+        "grupo_id": "461"
+    },
+    {
+        "id": "46184",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO ESPECIALIZADO EM PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "461"
+    },
+    {
+        "id": "46192",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO DE MERCADORIAS EM GERAL NÃO ESPECIALIZADO",
+        "grupo_id": "461"
+    },
+    {
+        "id": "46214",
+        "descricao": "COMÉRCIO ATACADISTA DE CAFÉ EM GRÃO",
+        "grupo_id": "462"
+    },
+    {
+        "id": "46222",
+        "descricao": "COMÉRCIO ATACADISTA DE SOJA",
+        "grupo_id": "462"
+    },
+    {
+        "id": "46451",
+        "descricao": "COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, ORTOPÉDICO E ODONTOLÓGICO",
+        "grupo_id": "464"
+    },
+    {
+        "id": "47555",
+        "descricao": "COMÉRCIO VAREJISTA ESPECIALIZADO DE TECIDOS E ARTIGOS DE CAMA, MESA E BANHO",
+        "grupo_id": "475"
+    },
+    {
+        "id": "46231",
+        "descricao": "COMÉRCIO ATACADISTA DE ANIMAIS VIVOS, ALIMENTOS PARA ANIMAIS E MATÉRIAS-PRIMAS AGRÍCOLAS, EXCETO CAFÉ E SOJA",
+        "grupo_id": "462"
+    },
+    {
+        "id": "46311",
+        "descricao": "COMÉRCIO ATACADISTA DE LEITE E LATICÍNIOS",
+        "grupo_id": "463"
+    },
+    {
+        "id": "46320",
+        "descricao": "COMÉRCIO ATACADISTA DE CEREAIS E LEGUMINOSAS BENEFICIADOS, FARINHAS, AMIDOS E FÉCULAS",
+        "grupo_id": "463"
+    },
+    {
+        "id": "46338",
+        "descricao": "COMÉRCIO ATACADISTA DE HORTIFRUTIGRANJEIROS",
+        "grupo_id": "463"
+    },
+    {
+        "id": "46346",
+        "descricao": "COMÉRCIO ATACADISTA DE CARNES, PRODUTOS DA CARNE E PESCADO",
+        "grupo_id": "463"
+    },
+    {
+        "id": "46354",
+        "descricao": "COMÉRCIO ATACADISTA DE BEBIDAS",
+        "grupo_id": "463"
+    },
+    {
+        "id": "46362",
+        "descricao": "COMÉRCIO ATACADISTA DE PRODUTOS DO FUMO",
+        "grupo_id": "463"
+    },
+    {
+        "id": "46371",
+        "descricao": "COMÉRCIO ATACADISTA ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "463"
+    },
+    {
+        "id": "46397",
+        "descricao": "COMÉRCIO ATACADISTA DE PRODUTOS ALIMENTÍCIOS EM GERAL",
+        "grupo_id": "463"
+    },
+    {
+        "id": "46419",
+        "descricao": "COMÉRCIO ATACADISTA DE TECIDOS, ARTEFATOS DE TECIDOS E DE ARMARINHO",
+        "grupo_id": "464"
+    },
+    {
+        "id": "46427",
+        "descricao": "COMÉRCIO ATACADISTA DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS",
+        "grupo_id": "464"
+    },
+    {
+        "id": "46435",
+        "descricao": "COMÉRCIO ATACADISTA DE CALÇADOS E ARTIGOS DE VIAGEM",
+        "grupo_id": "464"
+    },
+    {
+        "id": "46443",
+        "descricao": "COMÉRCIO ATACADISTA DE PRODUTOS FARMACÊUTICOS PARA USO HUMANO E VETERINÁRIO",
+        "grupo_id": "464"
+    },
+    {
+        "id": "46478",
+        "descricao": "COMÉRCIO ATACADISTA DE ARTIGOS DE ESCRITÓRIO E DE PAPELARIA; LIVROS, JORNAIS E OUTRAS PUBLICAÇÕES",
+        "grupo_id": "464"
+    },
+    {
+        "id": "46494",
+        "descricao": "COMÉRCIO ATACADISTA DE EQUIPAMENTOS E ARTIGOS DE USO PESSOAL E DOMÉSTICO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "464"
+    },
+    {
+        "id": "46516",
+        "descricao": "COMÉRCIO ATACADISTA DE COMPUTADORES, PERIFÉRICOS E SUPRIMENTOS DE INFORMÁTICA",
+        "grupo_id": "465"
+    },
+    {
+        "id": "46524",
+        "descricao": "COMÉRCIO ATACADISTA DE COMPONENTES ELETRÔNICOS E EQUIPAMENTOS DE TELEFONIA E COMUNICAÇÃO",
+        "grupo_id": "465"
+    },
+    {
+        "id": "46613",
+        "descricao": "COMÉRCIO ATACADISTA DE MÁQUINAS, APARELHOS E EQUIPAMENTOS PARA USO AGROPECUÁRIO; PARTES E PEÇAS",
+        "grupo_id": "466"
+    },
+    {
+        "id": "46621",
+        "descricao": "COMÉRCIO ATACADISTA DE MÁQUINAS, EQUIPAMENTOS PARA TERRAPLENAGEM, MINERAÇÃO E CONSTRUÇÃO; PARTES E PEÇAS",
+        "grupo_id": "466"
+    },
+    {
+        "id": "46630",
+        "descricao": "COMÉRCIO ATACADISTA DE MÁQUINAS E EQUIPAMENTOS PARA USO INDUSTRIAL; PARTES E PEÇAS",
+        "grupo_id": "466"
+    },
+    {
+        "id": "46648",
+        "descricao": "COMÉRCIO ATACADISTA DE MÁQUINAS, APARELHOS E EQUIPAMENTOS PARA USO ODONTO-MÉDICO-HOSPITALAR; PARTES E PEÇAS",
+        "grupo_id": "466"
+    },
+    {
+        "id": "47563",
+        "descricao": "COMÉRCIO VAREJISTA ESPECIALIZADO DE INSTRUMENTOS MUSICAIS E ACESSÓRIOS",
+        "grupo_id": "475"
+    },
+    {
+        "id": "58239",
+        "descricao": "EDIÇÃO INTEGRADA À IMPRESSÃO DE REVISTAS",
+        "grupo_id": "582"
+    },
+    {
+        "id": "46656",
+        "descricao": "COMÉRCIO ATACADISTA DE MÁQUINAS E EQUIPAMENTOS PARA USO COMERCIAL; PARTES E PEÇAS",
+        "grupo_id": "466"
+    },
+    {
+        "id": "46699",
+        "descricao": "COMÉRCIO ATACADISTA DE MÁQUINAS, APARELHOS E EQUIPAMENTOS NÃO ESPECIFICADOS ANTERIORMENTE; PARTES E PEÇAS",
+        "grupo_id": "466"
+    },
+    {
+        "id": "46711",
+        "descricao": "COMÉRCIO ATACADISTA DE MADEIRA E PRODUTOS DERIVADOS",
+        "grupo_id": "467"
+    },
+    {
+        "id": "46729",
+        "descricao": "COMÉRCIO ATACADISTA DE FERRAGENS E FERRAMENTAS",
+        "grupo_id": "467"
+    },
+    {
+        "id": "46737",
+        "descricao": "COMÉRCIO ATACADISTA DE MATERIAL ELÉTRICO",
+        "grupo_id": "467"
+    },
+    {
+        "id": "46745",
+        "descricao": "COMÉRCIO ATACADISTA DE CIMENTO",
+        "grupo_id": "467"
+    },
+    {
+        "id": "46796",
+        "descricao": "COMÉRCIO ATACADISTA ESPECIALIZADO DE MATERIAIS DE CONSTRUÇÃO NÃO ESPECIFICADOS ANTERIORMENTE E DE MATERIAIS DE CONSTRUÇÃO EM GERAL",
+        "grupo_id": "467"
+    },
+    {
+        "id": "46818",
+        "descricao": "COMÉRCIO ATACADISTA DE COMBUSTÍVEIS SÓLIDOS, LÍQUIDOS E GASOSOS, EXCETO GÁS NATURAL E GLP",
+        "grupo_id": "468"
+    },
+    {
+        "id": "46826",
+        "descricao": "COMÉRCIO ATACADISTA DE GÁS LIQÜEFEITO DE PETRÓLEO (GLP)",
+        "grupo_id": "468"
+    },
+    {
+        "id": "46834",
+        "descricao": "COMÉRCIO ATACADISTA DE DEFENSIVOS AGRÍCOLAS, ADUBOS, FERTILIZANTES E CORRETIVOS DO SOLO",
+        "grupo_id": "468"
+    },
+    {
+        "id": "46842",
+        "descricao": "COMÉRCIO ATACADISTA DE PRODUTOS QUÍMICOS E PETROQUÍMICOS, EXCETO AGROQUÍMICOS",
+        "grupo_id": "468"
+    },
+    {
+        "id": "46851",
+        "descricao": "COMÉRCIO ATACADISTA DE PRODUTOS SIDERÚRGICOS E METALÚRGICOS, EXCETO PARA CONSTRUÇÃO",
+        "grupo_id": "468"
+    },
+    {
+        "id": "46869",
+        "descricao": "COMÉRCIO ATACADISTA DE PAPEL E PAPELÃO EM BRUTO E DE EMBALAGENS",
+        "grupo_id": "468"
+    },
+    {
+        "id": "46877",
+        "descricao": "COMÉRCIO ATACADISTA DE RESÍDUOS E SUCATAS",
+        "grupo_id": "468"
+    },
+    {
+        "id": "46893",
+        "descricao": "COMÉRCIO ATACADISTA ESPECIALIZADO DE OUTROS PRODUTOS INTERMEDIÁRIOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "468"
+    },
+    {
+        "id": "46915",
+        "descricao": "COMÉRCIO ATACADISTA DE MERCADORIAS EM GERAL, COM PREDOMINÂNCIA DE PRODUTOS ALIMENTÍCIOS",
+        "grupo_id": "469"
+    },
+    {
+        "id": "46923",
+        "descricao": "COMÉRCIO ATACADISTA DE MERCADORIAS EM GERAL, COM PREDOMINÂNCIA DE INSUMOS AGROPECUÁRIOS",
+        "grupo_id": "469"
+    },
+    {
+        "id": "46931",
+        "descricao": "COMÉRCIO ATACADISTA DE MERCADORIAS EM GERAL, SEM PREDOMINÂNCIA DE ALIMENTOS OU DE INSUMOS AGROPECUÁRIOS",
+        "grupo_id": "469"
+    },
+    {
+        "id": "47113",
+        "descricao": "COMÉRCIO VAREJISTA DE MERCADORIAS EM GERAL, COM PREDOMINÂNCIA DE PRODUTOS ALIMENTÍCIOS - HIPERMERCADOS E SUPERMERCADOS",
+        "grupo_id": "471"
+    },
+    {
+        "id": "47121",
+        "descricao": "COMÉRCIO VAREJISTA DE MERCADORIAS EM GERAL, COM PREDOMINÂNCIA DE PRODUTOS ALIMENTÍCIOS - MINIMERCADOS, MERCEARIAS E ARMAZÉNS",
+        "grupo_id": "471"
+    },
+    {
+        "id": "47130",
+        "descricao": "COMÉRCIO VAREJISTA DE MERCADORIAS EM GERAL, SEM PREDOMINÂNCIA DE PRODUTOS ALIMENTÍCIOS",
+        "grupo_id": "471"
+    },
+    {
+        "id": "47211",
+        "descricao": "COMÉRCIO VAREJISTA DE PRODUTOS DE PADARIA, LATICÍNIO, DOCES, BALAS E SEMELHANTES",
+        "grupo_id": "472"
+    },
+    {
+        "id": "86909",
+        "descricao": "ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "869"
+    },
+    {
+        "id": "47296",
+        "descricao": "COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE; PRODUTOS DO FUMO",
+        "grupo_id": "472"
+    },
+    {
+        "id": "47318",
+        "descricao": "COMÉRCIO VAREJISTA DE COMBUSTÍVEIS PARA VEÍCULOS AUTOMOTORES",
+        "grupo_id": "473"
+    },
+    {
+        "id": "47326",
+        "descricao": "COMÉRCIO VAREJISTA DE LUBRIFICANTES",
+        "grupo_id": "473"
+    },
+    {
+        "id": "47415",
+        "descricao": "COMÉRCIO VAREJISTA DE TINTAS E MATERIAIS PARA PINTURA",
+        "grupo_id": "474"
+    },
+    {
+        "id": "47423",
+        "descricao": "COMÉRCIO VAREJISTA DE MATERIAL ELÉTRICO",
+        "grupo_id": "474"
+    },
+    {
+        "id": "47431",
+        "descricao": "COMÉRCIO VAREJISTA DE VIDROS",
+        "grupo_id": "474"
+    },
+    {
+        "id": "47440",
+        "descricao": "COMÉRCIO VAREJISTA DE FERRAGENS, MADEIRA E MATERIAIS DE CONSTRUÇÃO",
+        "grupo_id": "474"
+    },
+    {
+        "id": "47512",
+        "descricao": "COMÉRCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS E SUPRIMENTOS DE INFORMÁTICA",
+        "grupo_id": "475"
+    },
+    {
+        "id": "47521",
+        "descricao": "COMÉRCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS DE TELEFONIA E COMUNICAÇÃO",
+        "grupo_id": "475"
+    },
+    {
+        "id": "47539",
+        "descricao": "COMÉRCIO VAREJISTA ESPECIALIZADO DE ELETRODOMÉSTICOS E EQUIPAMENTOS DE ÁUDIO E VÍDEO",
+        "grupo_id": "475"
+    },
+    {
+        "id": "47547",
+        "descricao": "COMÉRCIO VAREJISTA ESPECIALIZADO DE MÓVEIS, COLCHOARIA E ARTIGOS DE ILUMINAÇÃO",
+        "grupo_id": "475"
+    },
+    {
+        "id": "47598",
+        "descricao": "COMÉRCIO VAREJISTA DE ARTIGOS DE USO DOMÉSTICO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "475"
+    },
+    {
+        "id": "47610",
+        "descricao": "COMÉRCIO VAREJISTA DE LIVROS, JORNAIS, REVISTAS E PAPELARIA",
+        "grupo_id": "476"
+    },
+    {
+        "id": "47628",
+        "descricao": "COMÉRCIO VAREJISTA DE DISCOS, CDS, DVDS E FITAS",
+        "grupo_id": "476"
+    },
+    {
+        "id": "47636",
+        "descricao": "COMÉRCIO VAREJISTA DE ARTIGOS RECREATIVOS E ESPORTIVOS",
+        "grupo_id": "476"
+    },
+    {
+        "id": "47717",
+        "descricao": "COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS PARA USO HUMANO E VETERINÁRIO",
+        "grupo_id": "477"
+    },
+    {
+        "id": "47725",
+        "descricao": "COMÉRCIO VAREJISTA DE COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL",
+        "grupo_id": "477"
+    },
+    {
+        "id": "47733",
+        "descricao": "COMÉRCIO VAREJISTA DE ARTIGOS MÉDICOS E ORTOPÉDICOS",
+        "grupo_id": "477"
+    },
+    {
+        "id": "47741",
+        "descricao": "COMÉRCIO VAREJISTA DE ARTIGOS DE ÓPTICA",
+        "grupo_id": "477"
+    },
+    {
+        "id": "47814",
+        "descricao": "COMÉRCIO VAREJISTA DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS",
+        "grupo_id": "478"
+    },
+    {
+        "id": "47822",
+        "descricao": "COMÉRCIO VAREJISTA DE CALÇADOS E ARTIGOS DE VIAGEM",
+        "grupo_id": "478"
+    },
+    {
+        "id": "47831",
+        "descricao": "COMÉRCIO VAREJISTA DE JÓIAS E RELÓGIOS",
+        "grupo_id": "478"
+    },
+    {
+        "id": "47849",
+        "descricao": "COMÉRCIO VAREJISTA DE GÁS LIQÜEFEITO DE PETRÓLEO (GLP)",
+        "grupo_id": "478"
+    },
+    {
+        "id": "47857",
+        "descricao": "COMÉRCIO VAREJISTA DE ARTIGOS USADOS",
+        "grupo_id": "478"
+    },
+    {
+        "id": "50114",
+        "descricao": "TRANSPORTE MARÍTIMO DE CABOTAGEM",
+        "grupo_id": "501"
+    },
+    {
+        "id": "50122",
+        "descricao": "TRANSPORTE MARÍTIMO DE LONGO CURSO",
+        "grupo_id": "501"
+    },
+    {
+        "id": "47890",
+        "descricao": "COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NOVOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "478"
+    },
+    {
+        "id": "47903",
+        "descricao": "COMÉRCIO AMBULANTE E OUTROS TIPOS DE COMÉRCIO VAREJISTA",
+        "grupo_id": "479"
+    },
+    {
+        "id": "49116",
+        "descricao": "TRANSPORTE FERROVIÁRIO DE CARGA",
+        "grupo_id": "491"
+    },
+    {
+        "id": "49124",
+        "descricao": "TRANSPORTE METROFERROVIÁRIO DE PASSAGEIROS",
+        "grupo_id": "491"
+    },
+    {
+        "id": "49213",
+        "descricao": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, MUNICIPAL E EM REGIÃO METROPOLITANA",
+        "grupo_id": "492"
+    },
+    {
+        "id": "49221",
+        "descricao": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, COM ITINERÁRIO FIXO, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL",
+        "grupo_id": "492"
+    },
+    {
+        "id": "49230",
+        "descricao": "TRANSPORTE RODOVIÁRIO DE TÁXI",
+        "grupo_id": "492"
+    },
+    {
+        "id": "49248",
+        "descricao": "TRANSPORTE ESCOLAR",
+        "grupo_id": "492"
+    },
+    {
+        "id": "49299",
+        "descricao": "TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO, E OUTROS TRANSPORTES RODOVIÁRIOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "492"
+    },
+    {
+        "id": "49302",
+        "descricao": "TRANSPORTE RODOVIÁRIO DE CARGA",
+        "grupo_id": "493"
+    },
+    {
+        "id": "49400",
+        "descricao": "TRANSPORTE DUTOVIÁRIO",
+        "grupo_id": "494"
+    },
+    {
+        "id": "49507",
+        "descricao": "TRENS TURÍSTICOS, TELEFÉRICOS E SIMILARES",
+        "grupo_id": "495"
+    },
+    {
+        "id": "50211",
+        "descricao": "TRANSPORTE POR NAVEGAÇÃO INTERIOR DE CARGA",
+        "grupo_id": "502"
+    },
+    {
+        "id": "50301",
+        "descricao": "NAVEGAÇÃO DE APOIO",
+        "grupo_id": "503"
+    },
+    {
+        "id": "50912",
+        "descricao": "TRANSPORTE POR NAVEGAÇÃO DE TRAVESSIA",
+        "grupo_id": "509"
+    },
+    {
+        "id": "50998",
+        "descricao": "TRANSPORTES AQUAVIÁRIOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "509"
+    },
+    {
+        "id": "51111",
+        "descricao": "TRANSPORTE AÉREO DE PASSAGEIROS REGULAR",
+        "grupo_id": "511"
+    },
+    {
+        "id": "51129",
+        "descricao": "TRANSPORTE AÉREO DE PASSAGEIROS NÃO-REGULAR",
+        "grupo_id": "511"
+    },
+    {
+        "id": "51200",
+        "descricao": "TRANSPORTE AÉREO DE CARGA",
+        "grupo_id": "512"
+    },
+    {
+        "id": "51307",
+        "descricao": "TRANSPORTE ESPACIAL",
+        "grupo_id": "513"
+    },
+    {
+        "id": "52117",
+        "descricao": "ARMAZENAMENTO",
+        "grupo_id": "521"
+    },
+    {
+        "id": "52125",
+        "descricao": "CARGA E DESCARGA",
+        "grupo_id": "521"
+    },
+    {
+        "id": "52214",
+        "descricao": "CONCESSIONÁRIAS DE RODOVIAS, PONTES, TÚNEIS E SERVIÇOS RELACIONADOS",
+        "grupo_id": "522"
+    },
+    {
+        "id": "52222",
+        "descricao": "TERMINAIS RODOVIÁRIOS E FERROVIÁRIOS",
+        "grupo_id": "522"
+    },
+    {
+        "id": "52231",
+        "descricao": "ESTACIONAMENTO DE VEÍCULOS",
+        "grupo_id": "522"
+    },
+    {
+        "id": "52290",
+        "descricao": "ATIVIDADES AUXILIARES DOS TRANSPORTES TERRESTRES NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "522"
+    },
+    {
+        "id": "52311",
+        "descricao": "GESTÃO DE PORTOS E TERMINAIS",
+        "grupo_id": "523"
+    },
+    {
+        "id": "52320",
+        "descricao": "ATIVIDADES DE AGENCIAMENTO MARÍTIMO",
+        "grupo_id": "523"
+    },
+    {
+        "id": "52397",
+        "descricao": "ATIVIDADES AUXILIARES DOS TRANSPORTES AQUAVIÁRIOS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "523"
+    },
+    {
+        "id": "52401",
+        "descricao": "ATIVIDADES AUXILIARES DOS TRANSPORTES AÉREOS",
+        "grupo_id": "524"
+    },
+    {
+        "id": "52508",
+        "descricao": "ATIVIDADES RELACIONADAS À ORGANIZAÇÃO DO TRANSPORTE DE CARGA",
+        "grupo_id": "525"
+    },
+    {
+        "id": "53105",
+        "descricao": "ATIVIDADES DE CORREIO",
+        "grupo_id": "531"
+    },
+    {
+        "id": "53202",
+        "descricao": "ATIVIDADES DE MALOTE E DE ENTREGA",
+        "grupo_id": "532"
+    },
+    {
+        "id": "55108",
+        "descricao": "HOTÉIS E SIMILARES",
+        "grupo_id": "551"
+    },
+    {
+        "id": "55906",
+        "descricao": "OUTROS TIPOS DE ALOJAMENTO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "559"
+    },
+    {
+        "id": "56112",
+        "descricao": "RESTAURANTES E OUTROS ESTABELECIMENTOS DE SERVIÇOS DE ALIMENTAÇÃO E BEBIDAS",
+        "grupo_id": "561"
+    },
+    {
+        "id": "56121",
+        "descricao": "SERVIÇOS AMBULANTES DE ALIMENTAÇÃO",
+        "grupo_id": "561"
+    },
+    {
+        "id": "56201",
+        "descricao": "SERVIÇOS DE CATERING, BUFÊ E OUTROS SERVIÇOS DE COMIDA PREPARADA",
+        "grupo_id": "562"
+    },
+    {
+        "id": "58115",
+        "descricao": "EDIÇÃO DE LIVROS",
+        "grupo_id": "581"
+    },
+    {
+        "id": "58123",
+        "descricao": "EDIÇÃO DE JORNAIS",
+        "grupo_id": "581"
+    },
+    {
+        "id": "58131",
+        "descricao": "EDIÇÃO DE REVISTAS",
+        "grupo_id": "581"
+    },
+    {
+        "id": "58191",
+        "descricao": "EDIÇÃO DE CADASTROS, LISTAS E DE OUTROS PRODUTOS GRÁFICOS",
+        "grupo_id": "581"
+    },
+    {
+        "id": "58298",
+        "descricao": "EDIÇÃO INTEGRADA À IMPRESSÃO DE CADASTROS, LISTAS E DE OUTROS PRODUTOS GRÁFICOS",
+        "grupo_id": "582"
+    },
+    {
+        "id": "59111",
+        "descricao": "ATIVIDADES DE PRODUÇÃO CINEMATOGRÁFICA, DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO",
+        "grupo_id": "591"
+    },
+    {
+        "id": "59120",
+        "descricao": "ATIVIDADES DE PÓS-PRODUÇÃO CINEMATOGRÁFICA, DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO",
+        "grupo_id": "591"
+    },
+    {
+        "id": "59138",
+        "descricao": "DISTRIBUIÇÃO CINEMATOGRÁFICA, DE VÍDEO E DE PROGRAMAS DE TELEVISÃO",
+        "grupo_id": "591"
+    },
+    {
+        "id": "59146",
+        "descricao": "ATIVIDADES DE EXIBIÇÃO CINEMATOGRÁFICA",
+        "grupo_id": "591"
+    },
+    {
+        "id": "59201",
+        "descricao": "ATIVIDADES DE GRAVAÇÃO DE SOM E DE EDIÇÃO DE MÚSICA",
+        "grupo_id": "592"
+    },
+    {
+        "id": "60101",
+        "descricao": "ATIVIDADES DE RÁDIO",
+        "grupo_id": "601"
+    },
+    {
+        "id": "64239",
+        "descricao": "CAIXAS ECONÔMICAS",
+        "grupo_id": "642"
+    },
+    {
+        "id": "60217",
+        "descricao": "ATIVIDADES DE TELEVISÃO ABERTA",
+        "grupo_id": "602"
+    },
+    {
+        "id": "60225",
+        "descricao": "PROGRAMADORAS E ATIVIDADES RELACIONADAS À TELEVISÃO POR ASSINATURA",
+        "grupo_id": "602"
+    },
+    {
+        "id": "61108",
+        "descricao": "TELECOMUNICAÇÕES POR FIO",
+        "grupo_id": "611"
+    },
+    {
+        "id": "61205",
+        "descricao": "TELECOMUNICAÇÕES SEM FIO",
+        "grupo_id": "612"
+    },
+    {
+        "id": "61302",
+        "descricao": "TELECOMUNICAÇÕES POR SATÉLITE",
+        "grupo_id": "613"
+    },
+    {
+        "id": "61418",
+        "descricao": "OPERADORAS DE TELEVISÃO POR ASSINATURA POR CABO",
+        "grupo_id": "614"
+    },
+    {
+        "id": "61426",
+        "descricao": "OPERADORAS DE TELEVISÃO POR ASSINATURA POR MICROONDAS",
+        "grupo_id": "614"
+    },
+    {
+        "id": "61434",
+        "descricao": "OPERADORAS DE TELEVISÃO POR ASSINATURA POR SATÉLITE",
+        "grupo_id": "614"
+    },
+    {
+        "id": "61906",
+        "descricao": "OUTRAS ATIVIDADES DE TELECOMUNICAÇÕES",
+        "grupo_id": "619"
+    },
+    {
+        "id": "62015",
+        "descricao": "DESENVOLVIMENTO DE PROGRAMAS DE COMPUTADOR SOB ENCOMENDA",
+        "grupo_id": "620"
+    },
+    {
+        "id": "62023",
+        "descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR CUSTOMIZÁVEIS",
+        "grupo_id": "620"
+    },
+    {
+        "id": "62031",
+        "descricao": "DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR NÃO-CUSTOMIZÁVEIS",
+        "grupo_id": "620"
+    },
+    {
+        "id": "64221",
+        "descricao": "BANCOS MÚLTIPLOS, COM CARTEIRA COMERCIAL",
+        "grupo_id": "642"
+    },
+    {
+        "id": "62040",
+        "descricao": "CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO",
+        "grupo_id": "620"
+    },
+    {
+        "id": "62091",
+        "descricao": "SUPORTE TÉCNICO, MANUTENÇÃO E OUTROS SERVIÇOS EM TECNOLOGIA DA INFORMAÇÃO",
+        "grupo_id": "620"
+    },
+    {
+        "id": "63119",
+        "descricao": "TRATAMENTO DE DADOS, PROVEDORES DE SERVIÇOS DE APLICAÇÃO E SERVIÇOS DE HOSPEDAGEM NA INTERNET",
+        "grupo_id": "631"
+    },
+    {
+        "id": "63194",
+        "descricao": "PORTAIS, PROVEDORES DE CONTEÚDO E OUTROS SERVIÇOS DE INFORMAÇÃO NA INTERNET",
+        "grupo_id": "631"
+    },
+    {
+        "id": "63917",
+        "descricao": "AGÊNCIAS DE NOTÍCIAS",
+        "grupo_id": "639"
+    },
+    {
+        "id": "63992",
+        "descricao": "OUTRAS ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "639"
+    },
+    {
+        "id": "64107",
+        "descricao": "BANCO CENTRAL",
+        "grupo_id": "641"
+    },
+    {
+        "id": "64212",
+        "descricao": "BANCOS COMERCIAIS",
+        "grupo_id": "642"
+    },
+    {
+        "id": "64247",
+        "descricao": "CRÉDITO COOPERATIVO",
+        "grupo_id": "642"
+    },
+    {
+        "id": "64310",
+        "descricao": "BANCOS MÚLTIPLOS, SEM CARTEIRA COMERCIAL",
+        "grupo_id": "643"
+    },
+    {
+        "id": "64328",
+        "descricao": "BANCOS DE INVESTIMENTO",
+        "grupo_id": "643"
+    },
+    {
+        "id": "64336",
+        "descricao": "BANCOS DE DESENVOLVIMENTO",
+        "grupo_id": "643"
+    },
+    {
+        "id": "64344",
+        "descricao": "AGÊNCIAS DE FOMENTO",
+        "grupo_id": "643"
+    },
+    {
+        "id": "64352",
+        "descricao": "CRÉDITO IMOBILIÁRIO",
+        "grupo_id": "643"
+    },
+    {
+        "id": "64361",
+        "descricao": "SOCIEDADES DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO - FINANCEIRAS",
+        "grupo_id": "643"
+    },
+    {
+        "id": "64379",
+        "descricao": "SOCIEDADES DE CRÉDITO AO MICROEMPREENDEDOR",
+        "grupo_id": "643"
+    },
+    {
+        "id": "64387",
+        "descricao": "BANCOS DE CAMBIO E OUTRAS INSTITUIÇÕES DE INTERMEDIAÇÃO NÃO-MONETÁRIA",
+        "grupo_id": "643"
+    },
+    {
+        "id": "64409",
+        "descricao": "ARRENDAMENTO MERCANTIL",
+        "grupo_id": "644"
+    },
+    {
+        "id": "64506",
+        "descricao": "SOCIEDADES DE CAPITALIZAÇÃO",
+        "grupo_id": "645"
+    },
+    {
+        "id": "64611",
+        "descricao": "HOLDINGS DE INSTITUIÇÕES FINANCEIRAS",
+        "grupo_id": "646"
+    },
+    {
+        "id": "64620",
+        "descricao": "HOLDINGS DE INSTITUIÇÕES NÃO-FINANCEIRAS",
+        "grupo_id": "646"
+    },
+    {
+        "id": "64638",
+        "descricao": "OUTRAS SOCIEDADES DE PARTICIPAÇÃO, EXCETO HOLDINGS",
+        "grupo_id": "646"
+    },
+    {
+        "id": "64701",
+        "descricao": "FUNDOS DE INVESTIMENTO",
+        "grupo_id": "647"
+    },
+    {
+        "id": "64913",
+        "descricao": "SOCIEDADES DE FOMENTO MERCANTIL - FACTORING",
+        "grupo_id": "649"
+    },
+    {
+        "id": "64921",
+        "descricao": "SECURITIZAÇÃO DE CRÉDITOS",
+        "grupo_id": "649"
+    },
+    {
+        "id": "64930",
+        "descricao": "ADMINISTRAÇÃO DE CONSÓRCIOS PARA AQUISIÇÃO DE BENS E DIREITOS",
+        "grupo_id": "649"
+    },
+    {
+        "id": "64999",
+        "descricao": "OUTRAS ATIVIDADES DE SERVIÇOS FINANCEIROS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "649"
+    },
+    {
+        "id": "65111",
+        "descricao": "SEGUROS DE VIDA",
+        "grupo_id": "651"
+    },
+    {
+        "id": "65120",
+        "descricao": "SEGUROS NÃO-VIDA",
+        "grupo_id": "651"
+    },
+    {
+        "id": "65201",
+        "descricao": "SEGUROS-SAÚDE",
+        "grupo_id": "652"
+    },
+    {
+        "id": "65308",
+        "descricao": "RESSEGUROS",
+        "grupo_id": "653"
+    },
+    {
+        "id": "65413",
+        "descricao": "PREVIDÊNCIA COMPLEMENTAR FECHADA",
+        "grupo_id": "654"
+    },
+    {
+        "id": "65421",
+        "descricao": "PREVIDÊNCIA COMPLEMENTAR ABERTA",
+        "grupo_id": "654"
+    },
+    {
+        "id": "65502",
+        "descricao": "PLANOS DE SAÚDE",
+        "grupo_id": "655"
+    },
+    {
+        "id": "66118",
+        "descricao": "ADMINISTRAÇÃO DE BOLSAS E MERCADOS DE BALCÃO ORGANIZADOS",
+        "grupo_id": "661"
+    },
+    {
+        "id": "66126",
+        "descricao": "ATIVIDADES DE INTERMEDIÁRIOS EM TRANSAÇÕES DE TÍTULOS, VALORES MOBILIÁRIOS E MERCADORIAS",
+        "grupo_id": "661"
+    },
+    {
+        "id": "66134",
+        "descricao": "ADMINISTRAÇÃO DE CARTÕES DE CRÉDITO",
+        "grupo_id": "661"
+    },
+    {
+        "id": "66193",
+        "descricao": "ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "661"
+    },
+    {
+        "id": "66215",
+        "descricao": "AVALIAÇÃO DE RISCOS E PERDAS",
+        "grupo_id": "662"
+    },
+    {
+        "id": "66223",
+        "descricao": "CORRETORES E AGENTES DE SEGUROS, DE PLANOS DE PREVIDÊNCIA COMPLEMENTAR E DE SAÚDE",
+        "grupo_id": "662"
+    },
+    {
+        "id": "66291",
+        "descricao": "ATIVIDADES AUXILIARES DOS SEGUROS, DA PREVIDÊNCIA COMPLEMENTAR E DOS PLANOS DE SAÚDE NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "662"
+    },
+    {
+        "id": "66304",
+        "descricao": "ATIVIDADES DE ADMINISTRAÇÃO DE FUNDOS POR CONTRATO OU COMISSÃO",
+        "grupo_id": "663"
+    },
+    {
+        "id": "68102",
+        "descricao": "ATIVIDADES IMOBILIÁRIAS DE IMÓVEIS PRÓPRIOS",
+        "grupo_id": "681"
+    },
+    {
+        "id": "68218",
+        "descricao": "INTERMEDIAÇÃO NA COMPRA, VENDA E ALUGUEL DE IMÓVEIS",
+        "grupo_id": "682"
+    },
+    {
+        "id": "68226",
+        "descricao": "GESTÃO E ADMINISTRAÇÃO DA PROPRIEDADE IMOBILIÁRIA",
+        "grupo_id": "682"
+    },
+    {
+        "id": "69117",
+        "descricao": "ATIVIDADES JURÍDICAS, EXCETO CARTÓRIOS",
+        "grupo_id": "691"
+    },
+    {
+        "id": "69125",
+        "descricao": "CARTÓRIOS",
+        "grupo_id": "691"
+    },
+    {
+        "id": "69206",
+        "descricao": "ATIVIDADES DE CONTABILIDADE, CONSULTORIA E AUDITORIA CONTÁBIL E TRIBUTÁRIA",
+        "grupo_id": "692"
+    },
+    {
+        "id": "70107",
+        "descricao": "SEDES DE EMPRESAS E UNIDADES ADMINISTRATIVAS LOCAIS",
+        "grupo_id": "701"
+    },
+    {
+        "id": "70204",
+        "descricao": "ATIVIDADES DE CONSULTORIA EM GESTÃO EMPRESARIAL",
+        "grupo_id": "702"
+    },
+    {
+        "id": "71111",
+        "descricao": "SERVIÇOS DE ARQUITETURA",
+        "grupo_id": "711"
+    },
+    {
+        "id": "71120",
+        "descricao": "SERVIÇOS DE ENGENHARIA",
+        "grupo_id": "711"
+    },
+    {
+        "id": "71197",
+        "descricao": "ATIVIDADES TÉCNICAS RELACIONADAS À ARQUITETURA E ENGENHARIA",
+        "grupo_id": "711"
+    },
+    {
+        "id": "71201",
+        "descricao": "TESTES E ANÁLISES TÉCNICAS",
+        "grupo_id": "712"
+    },
+    {
+        "id": "72100",
+        "descricao": "PESQUISA E DESENVOLVIMENTO EXPERIMENTAL EM CIÊNCIAS FÍSICAS E NATURAIS",
+        "grupo_id": "721"
+    },
+    {
+        "id": "72207",
+        "descricao": "PESQUISA E DESENVOLVIMENTO EXPERIMENTAL EM CIÊNCIAS SOCIAIS E HUMANAS",
+        "grupo_id": "722"
+    },
+    {
+        "id": "73114",
+        "descricao": "AGÊNCIAS DE PUBLICIDADE",
+        "grupo_id": "731"
+    },
+    {
+        "id": "73122",
+        "descricao": "AGENCIAMENTO DE ESPAÇOS PARA PUBLICIDADE, EXCETO EM VEÍCULOS DE COMUNICAÇÃO",
+        "grupo_id": "731"
+    },
+    {
+        "id": "73190",
+        "descricao": "ATIVIDADES DE PUBLICIDADE NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "731"
+    },
+    {
+        "id": "73203",
+        "descricao": "PESQUISAS DE MERCADO E DE OPINIÃO PÚBLICA",
+        "grupo_id": "732"
+    },
+    {
+        "id": "74102",
+        "descricao": "DESIGN E DECORAÇÃO DE INTERIORES",
+        "grupo_id": "741"
+    },
+    {
+        "id": "74200",
+        "descricao": "ATIVIDADES FOTOGRÁFICAS E SIMILARES",
+        "grupo_id": "742"
+    },
+    {
+        "id": "74901",
+        "descricao": "ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "749"
+    },
+    {
+        "id": "75001",
+        "descricao": "ATIVIDADES VETERINÁRIAS",
+        "grupo_id": "750"
+    },
+    {
+        "id": "77110",
+        "descricao": "LOCAÇÃO DE AUTOMÓVEIS SEM CONDUTOR",
+        "grupo_id": "771"
+    },
+    {
+        "id": "82300",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÃO DE EVENTOS, EXCETO CULTURAIS E ESPORTIVOS",
+        "grupo_id": "823"
+    },
+    {
+        "id": "77195",
+        "descricao": "LOCAÇÃO DE MEIOS DE TRANSPORTE, EXCETO AUTOMÓVEIS, SEM CONDUTOR",
+        "grupo_id": "771"
+    },
+    {
+        "id": "77217",
+        "descricao": "ALUGUEL DE EQUIPAMENTOS RECREATIVOS E ESPORTIVOS",
+        "grupo_id": "772"
+    },
+    {
+        "id": "77225",
+        "descricao": "ALUGUEL DE FITAS DE VÍDEO, DVDS E SIMILARES",
+        "grupo_id": "772"
+    },
+    {
+        "id": "77233",
+        "descricao": "ALUGUEL DE OBJETOS DO VESTUÁRIO, JÓIAS E ACESSÓRIOS",
+        "grupo_id": "772"
+    },
+    {
+        "id": "77292",
+        "descricao": "ALUGUEL DE OBJETOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "772"
+    },
+    {
+        "id": "77314",
+        "descricao": "ALUGUEL DE MÁQUINAS E EQUIPAMENTOS AGRÍCOLAS SEM OPERADOR",
+        "grupo_id": "773"
+    },
+    {
+        "id": "77322",
+        "descricao": "ALUGUEL DE MÁQUINAS E EQUIPAMENTOS PARA CONSTRUÇÃO SEM OPERADOR",
+        "grupo_id": "773"
+    },
+    {
+        "id": "77331",
+        "descricao": "ALUGUEL DE MÁQUINAS E EQUIPAMENTOS PARA ESCRITÓRIOS",
+        "grupo_id": "773"
+    },
+    {
+        "id": "77390",
+        "descricao": "ALUGUEL DE MÁQUINAS E EQUIPAMENTOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "773"
+    },
+    {
+        "id": "82911",
+        "descricao": "ATIVIDADES DE COBRANÇAS E INFORMAÇÕES CADASTRAIS",
+        "grupo_id": "829"
+    },
+    {
+        "id": "77403",
+        "descricao": "GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS",
+        "grupo_id": "774"
+    },
+    {
+        "id": "78108",
+        "descricao": "SELEÇÃO E AGENCIAMENTO DE MÃO-DE-OBRA",
+        "grupo_id": "781"
+    },
+    {
+        "id": "78205",
+        "descricao": "LOCAÇÃO DE MÃO-DE-OBRA TEMPORÁRIA",
+        "grupo_id": "782"
+    },
+    {
+        "id": "78302",
+        "descricao": "FORNECIMENTO E GESTÃO DE RECURSOS HUMANOS PARA TERCEIROS",
+        "grupo_id": "783"
+    },
+    {
+        "id": "79112",
+        "descricao": "AGÊNCIAS DE VIAGENS",
+        "grupo_id": "791"
+    },
+    {
+        "id": "79121",
+        "descricao": "OPERADORES TURÍSTICOS",
+        "grupo_id": "791"
+    },
+    {
+        "id": "79902",
+        "descricao": "SERVIÇOS DE RESERVAS E OUTROS SERVIÇOS DE TURISMO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "799"
+    },
+    {
+        "id": "80111",
+        "descricao": "ATIVIDADES DE VIGILÂNCIA E SEGURANÇA PRIVADA",
+        "grupo_id": "801"
+    },
+    {
+        "id": "80129",
+        "descricao": "ATIVIDADES DE TRANSPORTE DE VALORES",
+        "grupo_id": "801"
+    },
+    {
+        "id": "80200",
+        "descricao": "ATIVIDADES DE MONITORAMENTO DE SISTEMAS DE SEGURANÇA",
+        "grupo_id": "802"
+    },
+    {
+        "id": "80307",
+        "descricao": "ATIVIDADES DE INVESTIGAÇÃO PARTICULAR",
+        "grupo_id": "803"
+    },
+    {
+        "id": "81117",
+        "descricao": "SERVIÇOS COMBINADOS PARA APOIO A EDIFÍCIOS, EXCETO CONDOMÍNIOS PREDIAIS",
+        "grupo_id": "811"
+    },
+    {
+        "id": "81125",
+        "descricao": "CONDOMÍNIOS PREDIAIS",
+        "grupo_id": "811"
+    },
+    {
+        "id": "81214",
+        "descricao": "LIMPEZA EM PRÉDIOS E EM DOMICÍLIOS",
+        "grupo_id": "812"
+    },
+    {
+        "id": "81222",
+        "descricao": "IMUNIZAÇÃO E CONTROLE DE PRAGAS URBANAS",
+        "grupo_id": "812"
+    },
+    {
+        "id": "81290",
+        "descricao": "ATIVIDADES DE LIMPEZA NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "812"
+    },
+    {
+        "id": "81303",
+        "descricao": "ATIVIDADES PAISAGÍSTICAS",
+        "grupo_id": "813"
+    },
+    {
+        "id": "82113",
+        "descricao": "SERVIÇOS COMBINADOS DE ESCRITÓRIO E APOIO ADMINISTRATIVO",
+        "grupo_id": "821"
+    },
+    {
+        "id": "82199",
+        "descricao": "FOTOCÓPIAS, PREPARAÇÃO DE DOCUMENTOS E OUTROS SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO",
+        "grupo_id": "821"
+    },
+    {
+        "id": "82202",
+        "descricao": "ATIVIDADES DE TELEATENDIMENTO",
+        "grupo_id": "822"
+    },
+    {
+        "id": "82920",
+        "descricao": "ENVASAMENTO E EMPACOTAMENTO SOB CONTRATO",
+        "grupo_id": "829"
+    },
+    {
+        "id": "82997",
+        "descricao": "ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "829"
+    },
+    {
+        "id": "84116",
+        "descricao": "ADMINISTRAÇÃO PÚBLICA EM GERAL",
+        "grupo_id": "841"
+    },
+    {
+        "id": "84124",
+        "descricao": "REGULAÇÃO DAS ATIVIDADES DE SAÚDE, EDUCAÇÃO, SERVIÇOS CULTURAIS E OUTROS SERVIÇOS SOCIAIS",
+        "grupo_id": "841"
+    },
+    {
+        "id": "84132",
+        "descricao": "REGULAÇÃO DAS ATIVIDADES ECONÔMICAS",
+        "grupo_id": "841"
+    },
+    {
+        "id": "84213",
+        "descricao": "RELAÇÕES EXTERIORES",
+        "grupo_id": "842"
+    },
+    {
+        "id": "85333",
+        "descricao": "EDUCAÇÃO SUPERIOR - PÓS-GRADUAÇÃO E EXTENSÃO",
+        "grupo_id": "853"
+    },
+    {
+        "id": "84221",
+        "descricao": "DEFESA",
+        "grupo_id": "842"
+    },
+    {
+        "id": "84230",
+        "descricao": "JUSTIÇA",
+        "grupo_id": "842"
+    },
+    {
+        "id": "84248",
+        "descricao": "SEGURANÇA E ORDEM PÚBLICA",
+        "grupo_id": "842"
+    },
+    {
+        "id": "84256",
+        "descricao": "DEFESA CIVIL",
+        "grupo_id": "842"
+    },
+    {
+        "id": "84302",
+        "descricao": "SEGURIDADE SOCIAL OBRIGATÓRIA",
+        "grupo_id": "843"
+    },
+    {
+        "id": "85112",
+        "descricao": "EDUCAÇÃO INFANTIL - CRECHE",
+        "grupo_id": "851"
+    },
+    {
+        "id": "85121",
+        "descricao": "EDUCAÇÃO INFANTIL - PRÉ-ESCOLA",
+        "grupo_id": "851"
+    },
+    {
+        "id": "85139",
+        "descricao": "ENSINO FUNDAMENTAL",
+        "grupo_id": "851"
+    },
+    {
+        "id": "85201",
+        "descricao": "ENSINO MÉDIO",
+        "grupo_id": "852"
+    },
+    {
+        "id": "85317",
+        "descricao": "EDUCAÇÃO SUPERIOR - GRADUAÇÃO",
+        "grupo_id": "853"
+    },
+    {
+        "id": "85325",
+        "descricao": "EDUCAÇÃO SUPERIOR - GRADUAÇÃO E PÓS-GRADUAÇÃO",
+        "grupo_id": "853"
+    },
+    {
+        "id": "85414",
+        "descricao": "EDUCAÇÃO PROFISSIONAL DE NÍVEL TÉCNICO",
+        "grupo_id": "854"
+    },
+    {
+        "id": "85422",
+        "descricao": "EDUCAÇÃO PROFISSIONAL DE NÍVEL TECNOLÓGICO",
+        "grupo_id": "854"
+    },
+    {
+        "id": "85503",
+        "descricao": "ATIVIDADES DE APOIO À EDUCAÇÃO",
+        "grupo_id": "855"
+    },
+    {
+        "id": "85911",
+        "descricao": "ENSINO DE ESPORTES",
+        "grupo_id": "859"
+    },
+    {
+        "id": "85929",
+        "descricao": "ENSINO DE ARTE E CULTURA",
+        "grupo_id": "859"
+    },
+    {
+        "id": "85937",
+        "descricao": "ENSINO DE IDIOMAS",
+        "grupo_id": "859"
+    },
+    {
+        "id": "85996",
+        "descricao": "ATIVIDADES DE ENSINO NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "859"
+    },
+    {
+        "id": "86101",
+        "descricao": "ATIVIDADES DE ATENDIMENTO HOSPITALAR",
+        "grupo_id": "861"
+    },
+    {
+        "id": "86216",
+        "descricao": "SERVIÇOS MÓVEIS DE ATENDIMENTO A URGÊNCIAS",
+        "grupo_id": "862"
+    },
+    {
+        "id": "86224",
+        "descricao": "SERVIÇOS DE REMOÇÃO DE PACIENTES, EXCETO OS SERVIÇOS MÓVEIS DE ATENDIMENTO A URGÊNCIAS",
+        "grupo_id": "862"
+    },
+    {
+        "id": "86305",
+        "descricao": "ATIVIDADES DE ATENÇÃO AMBULATORIAL EXECUTADAS POR MÉDICOS E ODONTÓLOGOS",
+        "grupo_id": "863"
+    },
+    {
+        "id": "86402",
+        "descricao": "ATIVIDADES DE SERVIÇOS DE COMPLEMENTAÇÃO DIAGNÓSTICA E TERAPÊUTICA",
+        "grupo_id": "864"
+    },
+    {
+        "id": "86500",
+        "descricao": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE, EXCETO MÉDICOS E ODONTÓLOGOS",
+        "grupo_id": "865"
+    },
+    {
+        "id": "86607",
+        "descricao": "ATIVIDADES DE APOIO À GESTÃO DE SAÚDE",
+        "grupo_id": "866"
+    },
+    {
+        "id": "87115",
+        "descricao": "ATIVIDADES DE ASSISTÊNCIA A IDOSOS, DEFICIENTES FÍSICOS, IMUNODEPRIMIDOS E CONVALESCENTES PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES",
+        "grupo_id": "871"
+    },
+    {
+        "id": "87123",
+        "descricao": "ATIVIDADES DE FORNECIMENTO DE INFRA-ESTRUTURA DE APOIO E ASSISTÊNCIA A PACIENTE NO DOMICÍLIO",
+        "grupo_id": "871"
+    },
+    {
+        "id": "87204",
+        "descricao": "ATIVIDADES DE ASSISTÊNCIA PSICOSSOCIAL E À SAÚDE A PORTADORES DE DISTÚRBIOS PSÍQUICOS, DEFICIÊNCIA MENTAL E DEPENDÊNCIA QUÍMICA",
+        "grupo_id": "872"
+    },
+    {
+        "id": "87301",
+        "descricao": "ATIVIDADES DE ASSISTÊNCIA SOCIAL PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES",
+        "grupo_id": "873"
+    },
+    {
+        "id": "88006",
+        "descricao": "SERVIÇOS DE ASSISTÊNCIA SOCIAL SEM ALOJAMENTO",
+        "grupo_id": "880"
+    },
+    {
+        "id": "90019",
+        "descricao": "ARTES CÊNICAS, ESPETÁCULOS E ATIVIDADES COMPLEMENTARES",
+        "grupo_id": "900"
+    },
+    {
+        "id": "90027",
+        "descricao": "CRIAÇÃO ARTÍSTICA",
+        "grupo_id": "900"
+    },
+    {
+        "id": "90035",
+        "descricao": "GESTÃO DE ESPAÇOS PARA ARTES CÊNICAS, ESPETÁCULOS E OUTRAS ATIVIDADES ARTÍSTICAS",
+        "grupo_id": "900"
+    },
+    {
+        "id": "91015",
+        "descricao": "ATIVIDADES DE BIBLIOTECAS E ARQUIVOS",
+        "grupo_id": "910"
+    },
+    {
+        "id": "91023",
+        "descricao": "ATIVIDADES DE MUSEUS E DE EXPLORAÇÃO, RESTAURAÇÃO ARTÍSTICA E CONSERVAÇÃO DE LUGARES E PRÉDIOS HISTÓRICOS E ATRAÇÕES SIMILARES",
+        "grupo_id": "910"
+    },
+    {
+        "id": "91031",
+        "descricao": "ATIVIDADES DE JARDINS BOTÂNICOS, ZOOLÓGICOS, PARQUES NACIONAIS, RESERVAS ECOLÓGICAS E ÁREAS DE PROTEÇÃO AMBIENTAL",
+        "grupo_id": "910"
+    },
+    {
+        "id": "92003",
+        "descricao": "ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E APOSTAS",
+        "grupo_id": "920"
+    },
+    {
+        "id": "93115",
+        "descricao": "GESTÃO DE INSTALAÇÕES DE ESPORTES",
+        "grupo_id": "931"
+    },
+    {
+        "id": "93123",
+        "descricao": "CLUBES SOCIAIS, ESPORTIVOS E SIMILARES",
+        "grupo_id": "931"
+    },
+    {
+        "id": "93131",
+        "descricao": "ATIVIDADES DE CONDICIONAMENTO FÍSICO",
+        "grupo_id": "931"
+    },
+    {
+        "id": "93191",
+        "descricao": "ATIVIDADES ESPORTIVAS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "931"
+    },
+    {
+        "id": "93212",
+        "descricao": "PARQUES DE DIVERSÃO E PARQUES TEMÁTICOS",
+        "grupo_id": "932"
+    },
+    {
+        "id": "95118",
+        "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS",
+        "grupo_id": "951"
+    },
+    {
+        "id": "95126",
+        "descricao": "REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE COMUNICAÇÃO",
+        "grupo_id": "951"
+    },
+    {
+        "id": "93298",
+        "descricao": "ATIVIDADES DE RECREAÇÃO E LAZER NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "932"
+    },
+    {
+        "id": "94111",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS PATRONAIS E EMPRESARIAIS",
+        "grupo_id": "941"
+    },
+    {
+        "id": "94120",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS PROFISSIONAIS",
+        "grupo_id": "941"
+    },
+    {
+        "id": "94201",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES SINDICAIS",
+        "grupo_id": "942"
+    },
+    {
+        "id": "94308",
+        "descricao": "ATIVIDADES DE ASSOCIAÇÕES DE DEFESA DE DIREITOS SOCIAIS",
+        "grupo_id": "943"
+    },
+    {
+        "id": "94910",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES RELIGIOSAS",
+        "grupo_id": "949"
+    },
+    {
+        "id": "94928",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES POLÍTICAS",
+        "grupo_id": "949"
+    },
+    {
+        "id": "94936",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS LIGADAS À CULTURA E À ARTE",
+        "grupo_id": "949"
+    },
+    {
+        "id": "94995",
+        "descricao": "ATIVIDADES ASSOCIATIVAS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "949"
+    },
+    {
+        "id": "95215",
+        "descricao": "REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS ELETROELETRÔNICOS DE USO PESSOAL E DOMÉSTICO",
+        "grupo_id": "952"
+    },
+    {
+        "id": "95291",
+        "descricao": "REPARAÇÃO E MANUTENÇÃO DE OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "grupo_id": "952"
+    },
+    {
+        "id": "96017",
+        "descricao": "LAVANDERIAS, TINTURARIAS E TOALHEIROS",
+        "grupo_id": "960"
+    },
+    {
+        "id": "96025",
+        "descricao": "CABELEIREIROS E OUTRAS ATIVIDADES DE TRATAMENTO DE BELEZA",
+        "grupo_id": "960"
+    },
+    {
+        "id": "96033",
+        "descricao": "ATIVIDADES FUNERÁRIAS E SERVIÇOS RELACIONADOS",
+        "grupo_id": "960"
+    },
+    {
+        "id": "96092",
+        "descricao": "ATIVIDADES DE SERVIÇOS PESSOAIS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "grupo_id": "960"
+    },
+    {
+        "id": "97005",
+        "descricao": "SERVIÇOS DOMÉSTICOS",
+        "grupo_id": "970"
+    },
+    {
+        "id": "99008",
+        "descricao": "ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS",
+        "grupo_id": "990"
+    }
+]

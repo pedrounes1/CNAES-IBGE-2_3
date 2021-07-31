@@ -1,0 +1,1427 @@
+[
+    {
+        "id": "011",
+        "descricao": "PRODUÇÃO DE LAVOURAS TEMPORÁRIAS",
+        "divisao_id": "01"
+    },
+    {
+        "id": "012",
+        "descricao": "HORTICULTURA E FLORICULTURA",
+        "divisao_id": "01"
+    },
+    {
+        "id": "013",
+        "descricao": "PRODUÇÃO DE LAVOURAS PERMANENTES",
+        "divisao_id": "01"
+    },
+    {
+        "id": "014",
+        "descricao": "PRODUÇÃO DE SEMENTES E MUDAS CERTIFICADAS",
+        "divisao_id": "01"
+    },
+    {
+        "id": "015",
+        "descricao": "PECUÁRIA",
+        "divisao_id": "01"
+    },
+    {
+        "id": "016",
+        "descricao": "ATIVIDADES DE APOIO À AGRICULTURA E À PECUÁRIA; ATIVIDADES DE PÓS-COLHEITA",
+        "divisao_id": "01"
+    },
+    {
+        "id": "017",
+        "descricao": "CAÇA E SERVIÇOS RELACIONADOS",
+        "divisao_id": "01"
+    },
+    {
+        "id": "021",
+        "descricao": "PRODUÇÃO FLORESTAL - FLORESTAS PLANTADAS",
+        "divisao_id": "02"
+    },
+    {
+        "id": "022",
+        "descricao": "PRODUÇÃO FLORESTAL - FLORESTAS NATIVAS",
+        "divisao_id": "02"
+    },
+    {
+        "id": "023",
+        "descricao": "ATIVIDADES DE APOIO À PRODUÇÃO FLORESTAL",
+        "divisao_id": "02"
+    },
+    {
+        "id": "031",
+        "descricao": "PESCA",
+        "divisao_id": "03"
+    },
+    {
+        "id": "032",
+        "descricao": "AQÜICULTURA",
+        "divisao_id": "03"
+    },
+    {
+        "id": "050",
+        "descricao": "EXTRAÇÃO DE CARVÃO MINERAL",
+        "divisao_id": "05"
+    },
+    {
+        "id": "060",
+        "descricao": "EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL",
+        "divisao_id": "06"
+    },
+    {
+        "id": "071",
+        "descricao": "EXTRAÇÃO DE MINÉRIO DE FERRO",
+        "divisao_id": "07"
+    },
+    {
+        "id": "072",
+        "descricao": "EXTRAÇÃO DE MINERAIS METÁLICOS NÃO-FERROSOS",
+        "divisao_id": "07"
+    },
+    {
+        "id": "081",
+        "descricao": "EXTRAÇÃO DE PEDRA, AREIA E ARGILA",
+        "divisao_id": "08"
+    },
+    {
+        "id": "089",
+        "descricao": "EXTRAÇÃO DE OUTROS MINERAIS NÃO-METÁLICOS",
+        "divisao_id": "08"
+    },
+    {
+        "id": "091",
+        "descricao": "ATIVIDADES DE APOIO À EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL",
+        "divisao_id": "09"
+    },
+    {
+        "id": "099",
+        "descricao": "ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS, EXCETO PETRÓLEO E GÁS NATURAL",
+        "divisao_id": "09"
+    },
+    {
+        "id": "101",
+        "descricao": "ABATE E FABRICAÇÃO DE PRODUTOS DE CARNE",
+        "divisao_id": "10"
+    },
+    {
+        "id": "102",
+        "descricao": "PRESERVAÇÃO DO PESCADO E FABRICAÇÃO DE PRODUTOS DO PESCADO",
+        "divisao_id": "10"
+    },
+    {
+        "id": "103",
+        "descricao": "FABRICAÇÃO DE CONSERVAS DE FRUTAS, LEGUMES E OUTROS VEGETAIS",
+        "divisao_id": "10"
+    },
+    {
+        "id": "104",
+        "descricao": "FABRICAÇÃO DE ÓLEOS E GORDURAS VEGETAIS E ANIMAIS",
+        "divisao_id": "10"
+    },
+    {
+        "id": "105",
+        "descricao": "LATICÍNIOS",
+        "divisao_id": "10"
+    },
+    {
+        "id": "106",
+        "descricao": "MOAGEM, FABRICAÇÃO DE PRODUTOS AMILÁCEOS E DE ALIMENTOS PARA ANIMAIS",
+        "divisao_id": "10"
+    },
+    {
+        "id": "107",
+        "descricao": "FABRICAÇÃO E REFINO DE AÇÚCAR",
+        "divisao_id": "10"
+    },
+    {
+        "id": "108",
+        "descricao": "TORREFAÇÃO E MOAGEM DE CAFÉ",
+        "divisao_id": "10"
+    },
+    {
+        "id": "109",
+        "descricao": "FABRICAÇÃO DE OUTROS PRODUTOS ALIMENTÍCIOS",
+        "divisao_id": "10"
+    },
+    {
+        "id": "111",
+        "descricao": "FABRICAÇÃO DE BEBIDAS ALCOÓLICAS",
+        "divisao_id": "11"
+    },
+    {
+        "id": "112",
+        "descricao": "FABRICAÇÃO DE BEBIDAS NÃO-ALCOÓLICAS",
+        "divisao_id": "11"
+    },
+    {
+        "id": "121",
+        "descricao": "PROCESSAMENTO INDUSTRIAL DO FUMO",
+        "divisao_id": "12"
+    },
+    {
+        "id": "122",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DO FUMO",
+        "divisao_id": "12"
+    },
+    {
+        "id": "131",
+        "descricao": "PREPARAÇÃO E FIAÇÃO DE FIBRAS TÊXTEIS",
+        "divisao_id": "13"
+    },
+    {
+        "id": "132",
+        "descricao": "TECELAGEM, EXCETO MALHA",
+        "divisao_id": "13"
+    },
+    {
+        "id": "133",
+        "descricao": "FABRICAÇÃO DE TECIDOS DE MALHA",
+        "divisao_id": "13"
+    },
+    {
+        "id": "134",
+        "descricao": "ACABAMENTOS EM FIOS, TECIDOS E ARTEFATOS TÊXTEIS",
+        "divisao_id": "13"
+    },
+    {
+        "id": "135",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS TÊXTEIS, EXCETO VESTUÁRIO",
+        "divisao_id": "13"
+    },
+    {
+        "id": "141",
+        "descricao": "CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS",
+        "divisao_id": "14"
+    },
+    {
+        "id": "142",
+        "descricao": "FABRICAÇÃO DE ARTIGOS DE MALHARIA E TRICOTAGEM",
+        "divisao_id": "14"
+    },
+    {
+        "id": "151",
+        "descricao": "CURTIMENTO E OUTRAS PREPARAÇÕES DE COURO",
+        "divisao_id": "15"
+    },
+    {
+        "id": "152",
+        "descricao": "FABRICAÇÃO DE ARTIGOS PARA VIAGEM E DE ARTEFATOS DIVERSOS DE COURO",
+        "divisao_id": "15"
+    },
+    {
+        "id": "153",
+        "descricao": "FABRICAÇÃO DE CALÇADOS",
+        "divisao_id": "15"
+    },
+    {
+        "id": "750",
+        "descricao": "ATIVIDADES VETERINÁRIAS",
+        "divisao_id": "75"
+    },
+    {
+        "id": "154",
+        "descricao": "FABRICAÇÃO DE PARTES PARA CALÇADOS, DE QUALQUER MATERIAL",
+        "divisao_id": "15"
+    },
+    {
+        "id": "161",
+        "descricao": "DESDOBRAMENTO DE MADEIRA",
+        "divisao_id": "16"
+    },
+    {
+        "id": "162",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE MADEIRA, CORTIÇA E MATERIAL TRANÇADO, EXCETO MÓVEIS",
+        "divisao_id": "16"
+    },
+    {
+        "id": "171",
+        "descricao": "FABRICAÇÃO DE CELULOSE E OUTRAS PASTAS PARA A FABRICAÇÃO DE PAPEL",
+        "divisao_id": "17"
+    },
+    {
+        "id": "172",
+        "descricao": "FABRICAÇÃO DE PAPEL, CARTOLINA E PAPEL-CARTÃO",
+        "divisao_id": "17"
+    },
+    {
+        "id": "173",
+        "descricao": "FABRICAÇÃO DE EMBALAGENS DE PAPEL, CARTOLINA, PAPEL-CARTÃO E PAPELÃO ONDULADO",
+        "divisao_id": "17"
+    },
+    {
+        "id": "174",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DIVERSOS DE PAPEL, CARTOLINA, PAPEL-CARTÃO E PAPELÃO ONDULADO",
+        "divisao_id": "17"
+    },
+    {
+        "id": "181",
+        "descricao": "ATIVIDADE DE IMPRESSÃO",
+        "divisao_id": "18"
+    },
+    {
+        "id": "182",
+        "descricao": "SERVIÇOS DE PRÉ-IMPRESSÃO E ACABAMENTOS GRÁFICOS",
+        "divisao_id": "18"
+    },
+    {
+        "id": "183",
+        "descricao": "REPRODUÇÃO DE MATERIAIS GRAVADOS EM QUALQUER SUPORTE",
+        "divisao_id": "18"
+    },
+    {
+        "id": "191",
+        "descricao": "COQUERIAS",
+        "divisao_id": "19"
+    },
+    {
+        "id": "192",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DERIVADOS DO PETRÓLEO",
+        "divisao_id": "19"
+    },
+    {
+        "id": "193",
+        "descricao": "FABRICAÇÃO DE BIOCOMBUSTÍVEIS",
+        "divisao_id": "19"
+    },
+    {
+        "id": "201",
+        "descricao": "FABRICAÇÃO DE PRODUTOS QUÍMICOS INORGÂNICOS",
+        "divisao_id": "20"
+    },
+    {
+        "id": "202",
+        "descricao": "FABRICAÇÃO DE PRODUTOS QUÍMICOS ORGÂNICOS",
+        "divisao_id": "20"
+    },
+    {
+        "id": "203",
+        "descricao": "FABRICAÇÃO DE RESINAS E ELASTÔMEROS",
+        "divisao_id": "20"
+    },
+    {
+        "id": "204",
+        "descricao": "FABRICAÇÃO DE FIBRAS ARTIFICIAIS E SINTÉTICAS",
+        "divisao_id": "20"
+    },
+    {
+        "id": "205",
+        "descricao": "FABRICAÇÃO DE DEFENSIVOS AGRÍCOLAS E DESINFESTANTES DOMISSANITÁRIOS",
+        "divisao_id": "20"
+    },
+    {
+        "id": "206",
+        "descricao": "FABRICAÇÃO DE SABÕES, DETERGENTES, PRODUTOS DE LIMPEZA, COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL",
+        "divisao_id": "20"
+    },
+    {
+        "id": "207",
+        "descricao": "FABRICAÇÃO DE TINTAS, VERNIZES, ESMALTES, LACAS E PRODUTOS AFINS",
+        "divisao_id": "20"
+    },
+    {
+        "id": "209",
+        "descricao": "FABRICAÇÃO DE PRODUTOS E PREPARADOS QUÍMICOS DIVERSOS",
+        "divisao_id": "20"
+    },
+    {
+        "id": "211",
+        "descricao": "FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS",
+        "divisao_id": "21"
+    },
+    {
+        "id": "212",
+        "descricao": "FABRICAÇÃO DE PRODUTOS FARMACÊUTICOS",
+        "divisao_id": "21"
+    },
+    {
+        "id": "221",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE BORRACHA",
+        "divisao_id": "22"
+    },
+    {
+        "id": "222",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE MATERIAL PLÁSTICO",
+        "divisao_id": "22"
+    },
+    {
+        "id": "231",
+        "descricao": "FABRICAÇÃO DE VIDRO E DE PRODUTOS DO VIDRO",
+        "divisao_id": "23"
+    },
+    {
+        "id": "232",
+        "descricao": "FABRICAÇÃO DE CIMENTO",
+        "divisao_id": "23"
+    },
+    {
+        "id": "233",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS DE CONCRETO, CIMENTO, FIBROCIMENTO, GESSO E MATERIAIS SEMELHANTES",
+        "divisao_id": "23"
+    },
+    {
+        "id": "234",
+        "descricao": "FABRICAÇÃO DE PRODUTOS CERÂMICOS",
+        "divisao_id": "23"
+    },
+    {
+        "id": "239",
+        "descricao": "APARELHAMENTO DE PEDRAS E FABRICAÇÃO DE OUTROS PRODUTOS DE MINERAIS NÃO-METÁLICOS",
+        "divisao_id": "23"
+    },
+    {
+        "id": "241",
+        "descricao": "PRODUÇÃO DE FERRO-GUSA E DE FERROLIGAS",
+        "divisao_id": "24"
+    },
+    {
+        "id": "242",
+        "descricao": "SIDERURGIA",
+        "divisao_id": "24"
+    },
+    {
+        "id": "243",
+        "descricao": "PRODUÇÃO DE TUBOS DE AÇO, EXCETO TUBOS SEM COSTURA",
+        "divisao_id": "24"
+    },
+    {
+        "id": "244",
+        "descricao": "METALURGIA DOS METAIS NÃO-FERROSOS",
+        "divisao_id": "24"
+    },
+    {
+        "id": "245",
+        "descricao": "FUNDIÇÃO",
+        "divisao_id": "24"
+    },
+    {
+        "id": "251",
+        "descricao": "FABRICAÇÃO DE ESTRUTURAS METÁLICAS E OBRAS DE CALDEIRARIA PESADA",
+        "divisao_id": "25"
+    },
+    {
+        "id": "252",
+        "descricao": "FABRICAÇÃO DE TANQUES, RESERVATÓRIOS METÁLICOS E CALDEIRAS",
+        "divisao_id": "25"
+    },
+    {
+        "id": "253",
+        "descricao": "FORJARIA, ESTAMPARIA, METALURGIA DO PÓ E SERVIÇOS DE TRATAMENTO DE METAIS",
+        "divisao_id": "25"
+    },
+    {
+        "id": "254",
+        "descricao": "FABRICAÇÃO DE ARTIGOS DE CUTELARIA, DE SERRALHERIA E FERRAMENTAS",
+        "divisao_id": "25"
+    },
+    {
+        "id": "255",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTO BÉLICO PESADO, ARMAS E MUNIÇÕES",
+        "divisao_id": "25"
+    },
+    {
+        "id": "259",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DE METAL NÃO ESPECIFICADOS ANTERIORMENTE",
+        "divisao_id": "25"
+    },
+    {
+        "id": "261",
+        "descricao": "FABRICAÇÃO DE COMPONENTES ELETRÔNICOS",
+        "divisao_id": "26"
+    },
+    {
+        "id": "262",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E PERIFÉRICOS",
+        "divisao_id": "26"
+    },
+    {
+        "id": "263",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS DE COMUNICAÇÃO",
+        "divisao_id": "26"
+    },
+    {
+        "id": "264",
+        "descricao": "FABRICAÇÃO DE APARELHOS DE RECEPÇÃO, REPRODUÇÃO, GRAVAÇÃO E AMPLIFICAÇÃO DE ÁUDIO E VÍDEO",
+        "divisao_id": "26"
+    },
+    {
+        "id": "265",
+        "descricao": "FABRICAÇÃO DE APARELHOS E INSTRUMENTOS DE MEDIDA, TESTE E CONTROLE; CRONÔMETROS E RELÓGIOS",
+        "divisao_id": "26"
+    },
+    {
+        "id": "266",
+        "descricao": "FABRICAÇÃO DE APARELHOS ELETROMÉDICOS E ELETROTERAPÊUTICOS E EQUIPAMENTOS DE IRRADIAÇÃO",
+        "divisao_id": "26"
+    },
+    {
+        "id": "267",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS E INSTRUMENTOS ÓPTICOS, FOTOGRÁFICOS E CINEMATOGRÁFICOS",
+        "divisao_id": "26"
+    },
+    {
+        "id": "268",
+        "descricao": "FABRICAÇÃO DE MÍDIAS VIRGENS, MAGNÉTICAS E ÓPTICAS",
+        "divisao_id": "26"
+    },
+    {
+        "id": "271",
+        "descricao": "FABRICAÇÃO DE GERADORES, TRANSFORMADORES E MOTORES ELÉTRICOS",
+        "divisao_id": "27"
+    },
+    {
+        "id": "272",
+        "descricao": "FABRICAÇÃO DE PILHAS, BATERIAS E ACUMULADORES ELÉTRICOS",
+        "divisao_id": "27"
+    },
+    {
+        "id": "273",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS PARA DISTRIBUIÇÃO E CONTROLE DE ENERGIA ELÉTRICA",
+        "divisao_id": "27"
+    },
+    {
+        "id": "274",
+        "descricao": "FABRICAÇÃO DE LÂMPADAS E OUTROS EQUIPAMENTOS DE ILUMINAÇÃO",
+        "divisao_id": "27"
+    },
+    {
+        "id": "275",
+        "descricao": "FABRICAÇÃO DE ELETRODOMÉSTICOS",
+        "divisao_id": "27"
+    },
+    {
+        "id": "279",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS E APARELHOS ELÉTRICOS NÃO ESPECIFICADOS ANTERIORMENTE",
+        "divisao_id": "27"
+    },
+    {
+        "id": "281",
+        "descricao": "FABRICAÇÃO DE MOTORES, BOMBAS, COMPRESSORES E EQUIPAMENTOS DE TRANSMISSÃO",
+        "divisao_id": "28"
+    },
+    {
+        "id": "282",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS DE USO GERAL",
+        "divisao_id": "28"
+    },
+    {
+        "id": "283",
+        "descricao": "FABRICAÇÃO DE TRATORES E DE MÁQUINAS E EQUIPAMENTOS PARA A AGRICULTURA E PECUÁRIA",
+        "divisao_id": "28"
+    },
+    {
+        "id": "284",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS-FERRAMENTA",
+        "divisao_id": "28"
+    },
+    {
+        "id": "285",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS DE USO NA EXTRAÇÃO MINERAL E NA CONSTRUÇÃO",
+        "divisao_id": "28"
+    },
+    {
+        "id": "286",
+        "descricao": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS DE USO INDUSTRIAL ESPECÍFICO",
+        "divisao_id": "28"
+    },
+    {
+        "id": "291",
+        "descricao": "FABRICAÇÃO DE AUTOMÓVEIS, CAMIONETAS E UTILITÁRIOS",
+        "divisao_id": "29"
+    },
+    {
+        "id": "292",
+        "descricao": "FABRICAÇÃO DE CAMINHÕES E ÔNIBUS",
+        "divisao_id": "29"
+    },
+    {
+        "id": "293",
+        "descricao": "FABRICAÇÃO DE CABINES, CARROCERIAS E REBOQUES PARA VEÍCULOS AUTOMOTORES",
+        "divisao_id": "29"
+    },
+    {
+        "id": "294",
+        "descricao": "FABRICAÇÃO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES",
+        "divisao_id": "29"
+    },
+    {
+        "id": "295",
+        "descricao": "RECONDICIONAMENTO E RECUPERAÇÃO DE MOTORES PARA VEÍCULOS AUTOMOTORES",
+        "divisao_id": "29"
+    },
+    {
+        "id": "301",
+        "descricao": "CONSTRUÇÃO DE EMBARCAÇÕES",
+        "divisao_id": "30"
+    },
+    {
+        "id": "303",
+        "descricao": "FABRICAÇÃO DE VEÍCULOS FERROVIÁRIOS",
+        "divisao_id": "30"
+    },
+    {
+        "id": "304",
+        "descricao": "FABRICAÇÃO DE AERONAVES",
+        "divisao_id": "30"
+    },
+    {
+        "id": "305",
+        "descricao": "FABRICAÇÃO DE VEÍCULOS MILITARES DE COMBATE",
+        "divisao_id": "30"
+    },
+    {
+        "id": "309",
+        "descricao": "FABRICAÇÃO DE EQUIPAMENTOS DE TRANSPORTE NÃO ESPECIFICADOS ANTERIORMENTE",
+        "divisao_id": "30"
+    },
+    {
+        "id": "310",
+        "descricao": "FABRICAÇÃO DE MÓVEIS",
+        "divisao_id": "31"
+    },
+    {
+        "id": "321",
+        "descricao": "FABRICAÇÃO DE ARTIGOS DE JOALHERIA, BIJUTERIA E SEMELHANTES",
+        "divisao_id": "32"
+    },
+    {
+        "id": "322",
+        "descricao": "FABRICAÇÃO DE INSTRUMENTOS MUSICAIS",
+        "divisao_id": "32"
+    },
+    {
+        "id": "323",
+        "descricao": "FABRICAÇÃO DE ARTEFATOS PARA PESCA E ESPORTE",
+        "divisao_id": "32"
+    },
+    {
+        "id": "324",
+        "descricao": "FABRICAÇÃO DE BRINQUEDOS E JOGOS RECREATIVOS",
+        "divisao_id": "32"
+    },
+    {
+        "id": "325",
+        "descricao": "FABRICAÇÃO DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO E ODONTOLÓGICO E DE ARTIGOS ÓPTICOS",
+        "divisao_id": "32"
+    },
+    {
+        "id": "329",
+        "descricao": "FABRICAÇÃO DE PRODUTOS DIVERSOS",
+        "divisao_id": "32"
+    },
+    {
+        "id": "331",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+        "divisao_id": "33"
+    },
+    {
+        "id": "332",
+        "descricao": "INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+        "divisao_id": "33"
+    },
+    {
+        "id": "351",
+        "descricao": "GERAÇÃO, TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+        "divisao_id": "35"
+    },
+    {
+        "id": "352",
+        "descricao": "PRODUÇÃO E DISTRIBUIÇÃO DE COMBUSTÍVEIS GASOSOS POR REDES URBANAS",
+        "divisao_id": "35"
+    },
+    {
+        "id": "353",
+        "descricao": "PRODUÇÃO E DISTRIBUIÇÃO DE VAPOR, ÁGUA QUENTE E AR CONDICIONADO",
+        "divisao_id": "35"
+    },
+    {
+        "id": "360",
+        "descricao": "CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA",
+        "divisao_id": "36"
+    },
+    {
+        "id": "370",
+        "descricao": "ESGOTO E ATIVIDADES RELACIONADAS",
+        "divisao_id": "37"
+    },
+    {
+        "id": "381",
+        "descricao": "COLETA DE RESÍDUOS",
+        "divisao_id": "38"
+    },
+    {
+        "id": "382",
+        "descricao": "TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS",
+        "divisao_id": "38"
+    },
+    {
+        "id": "383",
+        "descricao": "RECUPERAÇÃO DE MATERIAIS",
+        "divisao_id": "38"
+    },
+    {
+        "id": "390",
+        "descricao": "DESCONTAMINAÇÃO E OUTROS SERVIÇOS DE GESTÃO DE RESÍDUOS",
+        "divisao_id": "39"
+    },
+    {
+        "id": "411",
+        "descricao": "INCORPORAÇÃO DE EMPREENDIMENTOS IMOBILIÁRIOS",
+        "divisao_id": "41"
+    },
+    {
+        "id": "412",
+        "descricao": "CONSTRUÇÃO DE EDIFÍCIOS",
+        "divisao_id": "41"
+    },
+    {
+        "id": "421",
+        "descricao": "CONSTRUÇÃO DE RODOVIAS, FERROVIAS, OBRAS URBANAS E OBRAS-DE-ARTE ESPECIAIS",
+        "divisao_id": "42"
+    },
+    {
+        "id": "422",
+        "descricao": "OBRAS DE INFRA-ESTRUTURA PARA ENERGIA ELÉTRICA, TELECOMUNICAÇÕES, ÁGUA, ESGOTO E TRANSPORTE POR DUTOS",
+        "divisao_id": "42"
+    },
+    {
+        "id": "429",
+        "descricao": "CONSTRUÇÃO DE OUTRAS OBRAS DE INFRA-ESTRUTURA",
+        "divisao_id": "42"
+    },
+    {
+        "id": "431",
+        "descricao": "DEMOLIÇÃO E PREPARAÇÃO DO TERRENO",
+        "divisao_id": "43"
+    },
+    {
+        "id": "432",
+        "descricao": "INSTALAÇÕES ELÉTRICAS, HIDRÁULICAS E OUTRAS INSTALAÇÕES EM CONSTRUÇÕES",
+        "divisao_id": "43"
+    },
+    {
+        "id": "771",
+        "descricao": "LOCAÇÃO DE MEIOS DE TRANSPORTE SEM CONDUTOR",
+        "divisao_id": "77"
+    },
+    {
+        "id": "433",
+        "descricao": "OBRAS DE ACABAMENTO",
+        "divisao_id": "43"
+    },
+    {
+        "id": "439",
+        "descricao": "OUTROS SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO",
+        "divisao_id": "43"
+    },
+    {
+        "id": "451",
+        "descricao": "COMÉRCIO DE VEÍCULOS AUTOMOTORES",
+        "divisao_id": "45"
+    },
+    {
+        "id": "452",
+        "descricao": "MANUTENÇÃO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES",
+        "divisao_id": "45"
+    },
+    {
+        "id": "453",
+        "descricao": "COMÉRCIO DE PEÇAS E ACESSÓRIOS PARA VEÍCULOS AUTOMOTORES",
+        "divisao_id": "45"
+    },
+    {
+        "id": "454",
+        "descricao": "COMÉRCIO, MANUTENÇÃO E REPARAÇÃO DE MOTOCICLETAS, PEÇAS E ACESSÓRIOS",
+        "divisao_id": "45"
+    },
+    {
+        "id": "461",
+        "descricao": "REPRESENTANTES COMERCIAIS E AGENTES DO COMÉRCIO, EXCETO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS",
+        "divisao_id": "46"
+    },
+    {
+        "id": "462",
+        "descricao": "COMÉRCIO ATACADISTA DE MATÉRIAS-PRIMAS AGRÍCOLAS E ANIMAIS VIVOS",
+        "divisao_id": "46"
+    },
+    {
+        "id": "463",
+        "descricao": "COMÉRCIO ATACADISTA ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO",
+        "divisao_id": "46"
+    },
+    {
+        "id": "464",
+        "descricao": "COMÉRCIO ATACADISTA DE PRODUTOS DE CONSUMO NÃO-ALIMENTAR",
+        "divisao_id": "46"
+    },
+    {
+        "id": "465",
+        "descricao": "COMÉRCIO ATACADISTA DE EQUIPAMENTOS E PRODUTOS DE TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO",
+        "divisao_id": "46"
+    },
+    {
+        "id": "466",
+        "descricao": "COMÉRCIO ATACADISTA DE MÁQUINAS, APARELHOS E EQUIPAMENTOS, EXCETO DE TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO",
+        "divisao_id": "46"
+    },
+    {
+        "id": "467",
+        "descricao": "COMÉRCIO ATACADISTA DE MADEIRA, FERRAGENS, FERRAMENTAS, MATERIAL ELÉTRICO E MATERIAL DE CONSTRUÇÃO",
+        "divisao_id": "46"
+    },
+    {
+        "id": "468",
+        "descricao": "COMÉRCIO ATACADISTA ESPECIALIZADO EM OUTROS PRODUTOS",
+        "divisao_id": "46"
+    },
+    {
+        "id": "469",
+        "descricao": "COMÉRCIO ATACADISTA NÃO-ESPECIALIZADO",
+        "divisao_id": "46"
+    },
+    {
+        "id": "471",
+        "descricao": "COMÉRCIO VAREJISTA NÃO-ESPECIALIZADO",
+        "divisao_id": "47"
+    },
+    {
+        "id": "472",
+        "descricao": "COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS, BEBIDAS E FUMO",
+        "divisao_id": "47"
+    },
+    {
+        "id": "473",
+        "descricao": "COMÉRCIO VAREJISTA DE COMBUSTÍVEIS PARA VEÍCULOS AUTOMOTORES",
+        "divisao_id": "47"
+    },
+    {
+        "id": "474",
+        "descricao": "COMÉRCIO VAREJISTA DE MATERIAL DE CONSTRUÇÃO",
+        "divisao_id": "47"
+    },
+    {
+        "id": "475",
+        "descricao": "COMÉRCIO VAREJISTA DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO; EQUIPAMENTOS E ARTIGOS DE USO DOMÉSTICO",
+        "divisao_id": "47"
+    },
+    {
+        "id": "476",
+        "descricao": "COMÉRCIO VAREJISTA DE ARTIGOS CULTURAIS, RECREATIVOS E ESPORTIVOS",
+        "divisao_id": "47"
+    },
+    {
+        "id": "477",
+        "descricao": "COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS, PERFUMARIA E COSMÉTICOS E ARTIGOS MÉDICOS, ÓPTICOS E ORTOPÉDICOS",
+        "divisao_id": "47"
+    },
+    {
+        "id": "478",
+        "descricao": "COMÉRCIO VAREJISTA DE PRODUTOS NOVOS NÃO ESPECIFICADOS ANTERIORMENTE E DE PRODUTOS USADOS",
+        "divisao_id": "47"
+    },
+    {
+        "id": "479",
+        "descricao": "COMÉRCIO AMBULANTE E OUTROS TIPOS DE COMÉRCIO VAREJISTA",
+        "divisao_id": "47"
+    },
+    {
+        "id": "491",
+        "descricao": "TRANSPORTE FERROVIÁRIO E METROFERROVIÁRIO",
+        "divisao_id": "49"
+    },
+    {
+        "id": "492",
+        "descricao": "TRANSPORTE RODOVIÁRIO DE PASSAGEIROS",
+        "divisao_id": "49"
+    },
+    {
+        "id": "493",
+        "descricao": "TRANSPORTE RODOVIÁRIO DE CARGA",
+        "divisao_id": "49"
+    },
+    {
+        "id": "494",
+        "descricao": "TRANSPORTE DUTOVIÁRIO",
+        "divisao_id": "49"
+    },
+    {
+        "id": "495",
+        "descricao": "TRENS TURÍSTICOS, TELEFÉRICOS E SIMILARES",
+        "divisao_id": "49"
+    },
+    {
+        "id": "501",
+        "descricao": "TRANSPORTE MARÍTIMO DE CABOTAGEM E LONGO CURSO",
+        "divisao_id": "50"
+    },
+    {
+        "id": "502",
+        "descricao": "TRANSPORTE POR NAVEGAÇÃO INTERIOR",
+        "divisao_id": "50"
+    },
+    {
+        "id": "503",
+        "descricao": "NAVEGAÇÃO DE APOIO",
+        "divisao_id": "50"
+    },
+    {
+        "id": "509",
+        "descricao": "OUTROS TRANSPORTES AQUAVIÁRIOS",
+        "divisao_id": "50"
+    },
+    {
+        "id": "511",
+        "descricao": "TRANSPORTE AÉREO DE PASSAGEIROS",
+        "divisao_id": "51"
+    },
+    {
+        "id": "512",
+        "descricao": "TRANSPORTE AÉREO DE CARGA",
+        "divisao_id": "51"
+    },
+    {
+        "id": "513",
+        "descricao": "TRANSPORTE ESPACIAL",
+        "divisao_id": "51"
+    },
+    {
+        "id": "521",
+        "descricao": "ARMAZENAMENTO, CARGA E DESCARGA",
+        "divisao_id": "52"
+    },
+    {
+        "id": "522",
+        "descricao": "ATIVIDADES AUXILIARES DOS TRANSPORTES TERRESTRES",
+        "divisao_id": "52"
+    },
+    {
+        "id": "523",
+        "descricao": "ATIVIDADES AUXILIARES DOS TRANSPORTES AQUAVIÁRIOS",
+        "divisao_id": "52"
+    },
+    {
+        "id": "524",
+        "descricao": "ATIVIDADES AUXILIARES DOS TRANSPORTES AÉREOS",
+        "divisao_id": "52"
+    },
+    {
+        "id": "525",
+        "descricao": "ATIVIDADES RELACIONADAS À ORGANIZAÇÃO DO TRANSPORTE DE CARGA",
+        "divisao_id": "52"
+    },
+    {
+        "id": "531",
+        "descricao": "ATIVIDADES DE CORREIO",
+        "divisao_id": "53"
+    },
+    {
+        "id": "532",
+        "descricao": "ATIVIDADES DE MALOTE E DE ENTREGA",
+        "divisao_id": "53"
+    },
+    {
+        "id": "551",
+        "descricao": "HOTÉIS E SIMILARES",
+        "divisao_id": "55"
+    },
+    {
+        "id": "559",
+        "descricao": "OUTROS TIPOS DE ALOJAMENTO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "divisao_id": "55"
+    },
+    {
+        "id": "561",
+        "descricao": "RESTAURANTES E OUTROS SERVIÇOS DE ALIMENTAÇÃO E BEBIDAS",
+        "divisao_id": "56"
+    },
+    {
+        "id": "562",
+        "descricao": "SERVIÇOS DE CATERING, BUFÊ E OUTROS SERVIÇOS DE COMIDA PREPARADA",
+        "divisao_id": "56"
+    },
+    {
+        "id": "772",
+        "descricao": "ALUGUEL DE OBJETOS PESSOAIS E DOMÉSTICOS",
+        "divisao_id": "77"
+    },
+    {
+        "id": "581",
+        "descricao": "EDIÇÃO DE LIVROS, JORNAIS, REVISTAS E OUTRAS ATIVIDADES DE EDIÇÃO",
+        "divisao_id": "58"
+    },
+    {
+        "id": "582",
+        "descricao": "EDIÇÃO INTEGRADA À IMPRESSÃO DE LIVROS, JORNAIS, REVISTAS E OUTRAS PUBLICAÇÕES",
+        "divisao_id": "58"
+    },
+    {
+        "id": "591",
+        "descricao": "ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO",
+        "divisao_id": "59"
+    },
+    {
+        "id": "592",
+        "descricao": "ATIVIDADES DE GRAVAÇÃO DE SOM E DE EDIÇÃO DE MÚSICA",
+        "divisao_id": "59"
+    },
+    {
+        "id": "601",
+        "descricao": "ATIVIDADES DE RÁDIO",
+        "divisao_id": "60"
+    },
+    {
+        "id": "602",
+        "descricao": "ATIVIDADES DE TELEVISÃO",
+        "divisao_id": "60"
+    },
+    {
+        "id": "611",
+        "descricao": "TELECOMUNICAÇÕES POR FIO",
+        "divisao_id": "61"
+    },
+    {
+        "id": "612",
+        "descricao": "TELECOMUNICAÇÕES SEM FIO",
+        "divisao_id": "61"
+    },
+    {
+        "id": "613",
+        "descricao": "TELECOMUNICAÇÕES POR SATÉLITE",
+        "divisao_id": "61"
+    },
+    {
+        "id": "614",
+        "descricao": "OPERADORAS DE TELEVISÃO POR ASSINATURA",
+        "divisao_id": "61"
+    },
+    {
+        "id": "619",
+        "descricao": "OUTRAS ATIVIDADES DE TELECOMUNICAÇÕES",
+        "divisao_id": "61"
+    },
+    {
+        "id": "620",
+        "descricao": "ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+        "divisao_id": "62"
+    },
+    {
+        "id": "631",
+        "descricao": "TRATAMENTO DE DADOS, HOSPEDAGEM NA INTERNET E OUTRAS ATIVIDADES RELACIONADAS",
+        "divisao_id": "63"
+    },
+    {
+        "id": "639",
+        "descricao": "OUTRAS ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO",
+        "divisao_id": "63"
+    },
+    {
+        "id": "641",
+        "descricao": "BANCO CENTRAL",
+        "divisao_id": "64"
+    },
+    {
+        "id": "642",
+        "descricao": "INTERMEDIAÇÃO MONETÁRIA - DEPÓSITOS À VISTA",
+        "divisao_id": "64"
+    },
+    {
+        "id": "643",
+        "descricao": "INTERMEDIAÇÃO NÃO-MONETÁRIA - OUTROS INSTRUMENTOS DE CAPTAÇÃO",
+        "divisao_id": "64"
+    },
+    {
+        "id": "644",
+        "descricao": "ARRENDAMENTO MERCANTIL",
+        "divisao_id": "64"
+    },
+    {
+        "id": "645",
+        "descricao": "SOCIEDADES DE CAPITALIZAÇÃO",
+        "divisao_id": "64"
+    },
+    {
+        "id": "646",
+        "descricao": "ATIVIDADES DE SOCIEDADES DE PARTICIPAÇÃO",
+        "divisao_id": "64"
+    },
+    {
+        "id": "647",
+        "descricao": "FUNDOS DE INVESTIMENTO",
+        "divisao_id": "64"
+    },
+    {
+        "id": "649",
+        "descricao": "ATIVIDADES DE SERVIÇOS FINANCEIROS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "divisao_id": "64"
+    },
+    {
+        "id": "651",
+        "descricao": "SEGUROS DE VIDA E NÃO-VIDA",
+        "divisao_id": "65"
+    },
+    {
+        "id": "652",
+        "descricao": "SEGUROS-SAÚDE",
+        "divisao_id": "65"
+    },
+    {
+        "id": "653",
+        "descricao": "RESSEGUROS",
+        "divisao_id": "65"
+    },
+    {
+        "id": "654",
+        "descricao": "PREVIDÊNCIA COMPLEMENTAR",
+        "divisao_id": "65"
+    },
+    {
+        "id": "655",
+        "descricao": "PLANOS DE SAÚDE",
+        "divisao_id": "65"
+    },
+    {
+        "id": "661",
+        "descricao": "ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS",
+        "divisao_id": "66"
+    },
+    {
+        "id": "662",
+        "descricao": "ATIVIDADES AUXILIARES DOS SEGUROS, DA PREVIDÊNCIA COMPLEMENTAR E DOS PLANOS DE SAÚDE",
+        "divisao_id": "66"
+    },
+    {
+        "id": "663",
+        "descricao": "ATIVIDADES DE ADMINISTRAÇÃO DE FUNDOS POR CONTRATO OU COMISSÃO",
+        "divisao_id": "66"
+    },
+    {
+        "id": "681",
+        "descricao": "ATIVIDADES IMOBILIÁRIAS DE IMÓVEIS PRÓPRIOS",
+        "divisao_id": "68"
+    },
+    {
+        "id": "682",
+        "descricao": "ATIVIDADES IMOBILIÁRIAS POR CONTRATO OU COMISSÃO",
+        "divisao_id": "68"
+    },
+    {
+        "id": "691",
+        "descricao": "ATIVIDADES JURÍDICAS",
+        "divisao_id": "69"
+    },
+    {
+        "id": "692",
+        "descricao": "ATIVIDADES DE CONTABILIDADE, CONSULTORIA E AUDITORIA CONTÁBIL E TRIBUTÁRIA",
+        "divisao_id": "69"
+    },
+    {
+        "id": "701",
+        "descricao": "SEDES DE EMPRESAS E UNIDADES ADMINISTRATIVAS LOCAIS",
+        "divisao_id": "70"
+    },
+    {
+        "id": "702",
+        "descricao": "ATIVIDADES DE CONSULTORIA EM GESTÃO EMPRESARIAL",
+        "divisao_id": "70"
+    },
+    {
+        "id": "711",
+        "descricao": "SERVIÇOS DE ARQUITETURA E ENGENHARIA E ATIVIDADES TÉCNICAS RELACIONADAS",
+        "divisao_id": "71"
+    },
+    {
+        "id": "712",
+        "descricao": "TESTES E ANÁLISES TÉCNICAS",
+        "divisao_id": "71"
+    },
+    {
+        "id": "721",
+        "descricao": "PESQUISA E DESENVOLVIMENTO EXPERIMENTAL EM CIÊNCIAS FÍSICAS E NATURAIS",
+        "divisao_id": "72"
+    },
+    {
+        "id": "722",
+        "descricao": "PESQUISA E DESENVOLVIMENTO EXPERIMENTAL EM CIÊNCIAS SOCIAIS E HUMANAS",
+        "divisao_id": "72"
+    },
+    {
+        "id": "731",
+        "descricao": "PUBLICIDADE",
+        "divisao_id": "73"
+    },
+    {
+        "id": "732",
+        "descricao": "PESQUISAS DE MERCADO E DE OPINIÃO PÚBLICA",
+        "divisao_id": "73"
+    },
+    {
+        "id": "741",
+        "descricao": "DESIGN E DECORAÇÃO DE INTERIORES",
+        "divisao_id": "74"
+    },
+    {
+        "id": "742",
+        "descricao": "ATIVIDADES FOTOGRÁFICAS E SIMILARES",
+        "divisao_id": "74"
+    },
+    {
+        "id": "749",
+        "descricao": "ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "divisao_id": "74"
+    },
+    {
+        "id": "773",
+        "descricao": "ALUGUEL DE MÁQUINAS E EQUIPAMENTOS SEM OPERADOR",
+        "divisao_id": "77"
+    },
+    {
+        "id": "774",
+        "descricao": "GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS",
+        "divisao_id": "77"
+    },
+    {
+        "id": "781",
+        "descricao": "SELEÇÃO E AGENCIAMENTO DE MÃO-DE-OBRA",
+        "divisao_id": "78"
+    },
+    {
+        "id": "782",
+        "descricao": "LOCAÇÃO DE MÃO-DE-OBRA TEMPORÁRIA",
+        "divisao_id": "78"
+    },
+    {
+        "id": "783",
+        "descricao": "FORNECIMENTO E GESTÃO DE RECURSOS HUMANOS PARA TERCEIROS",
+        "divisao_id": "78"
+    },
+    {
+        "id": "791",
+        "descricao": "AGÊNCIAS DE VIAGENS E OPERADORES TURÍSTICOS",
+        "divisao_id": "79"
+    },
+    {
+        "id": "799",
+        "descricao": "SERVIÇOS DE RESERVAS E OUTROS SERVIÇOS DE TURISMO NÃO ESPECIFICADOS ANTERIORMENTE",
+        "divisao_id": "79"
+    },
+    {
+        "id": "801",
+        "descricao": "ATIVIDADES DE VIGILÂNCIA, SEGURANÇA PRIVADA E TRANSPORTE DE VALORES",
+        "divisao_id": "80"
+    },
+    {
+        "id": "802",
+        "descricao": "ATIVIDADES DE MONITORAMENTO DE SISTEMAS DE SEGURANÇA",
+        "divisao_id": "80"
+    },
+    {
+        "id": "803",
+        "descricao": "ATIVIDADES DE INVESTIGAÇÃO PARTICULAR",
+        "divisao_id": "80"
+    },
+    {
+        "id": "811",
+        "descricao": "SERVIÇOS COMBINADOS PARA APOIO A EDIFÍCIOS",
+        "divisao_id": "81"
+    },
+    {
+        "id": "812",
+        "descricao": "ATIVIDADES DE LIMPEZA",
+        "divisao_id": "81"
+    },
+    {
+        "id": "813",
+        "descricao": "ATIVIDADES PAISAGÍSTICAS",
+        "divisao_id": "81"
+    },
+    {
+        "id": "821",
+        "descricao": "SERVIÇOS DE ESCRITÓRIO E APOIO ADMINISTRATIVO",
+        "divisao_id": "82"
+    },
+    {
+        "id": "822",
+        "descricao": "ATIVIDADES DE TELEATENDIMENTO",
+        "divisao_id": "82"
+    },
+    {
+        "id": "823",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÃO DE EVENTOS, EXCETO CULTURAIS E ESPORTIVOS",
+        "divisao_id": "82"
+    },
+    {
+        "id": "829",
+        "descricao": "OUTRAS ATIVIDADES DE SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS",
+        "divisao_id": "82"
+    },
+    {
+        "id": "841",
+        "descricao": "ADMINISTRAÇÃO DO ESTADO E DA POLÍTICA ECONÔMICA E SOCIAL",
+        "divisao_id": "84"
+    },
+    {
+        "id": "842",
+        "descricao": "SERVIÇOS COLETIVOS PRESTADOS PELA ADMINISTRAÇÃO PÚBLICA",
+        "divisao_id": "84"
+    },
+    {
+        "id": "843",
+        "descricao": "SEGURIDADE SOCIAL OBRIGATÓRIA",
+        "divisao_id": "84"
+    },
+    {
+        "id": "851",
+        "descricao": "EDUCAÇÃO INFANTIL E ENSINO FUNDAMENTAL",
+        "divisao_id": "85"
+    },
+    {
+        "id": "852",
+        "descricao": "ENSINO MÉDIO",
+        "divisao_id": "85"
+    },
+    {
+        "id": "853",
+        "descricao": "EDUCAÇÃO SUPERIOR",
+        "divisao_id": "85"
+    },
+    {
+        "id": "854",
+        "descricao": "EDUCAÇÃO PROFISSIONAL DE NÍVEL TÉCNICO E TECNOLÓGICO",
+        "divisao_id": "85"
+    },
+    {
+        "id": "855",
+        "descricao": "ATIVIDADES DE APOIO À EDUCAÇÃO",
+        "divisao_id": "85"
+    },
+    {
+        "id": "859",
+        "descricao": "OUTRAS ATIVIDADES DE ENSINO",
+        "divisao_id": "85"
+    },
+    {
+        "id": "861",
+        "descricao": "ATIVIDADES DE ATENDIMENTO HOSPITALAR",
+        "divisao_id": "86"
+    },
+    {
+        "id": "862",
+        "descricao": "SERVIÇOS MÓVEIS DE ATENDIMENTO A URGÊNCIAS E DE REMOÇÃO DE PACIENTES",
+        "divisao_id": "86"
+    },
+    {
+        "id": "863",
+        "descricao": "ATIVIDADES DE ATENÇÃO AMBULATORIAL EXECUTADAS POR MÉDICOS E ODONTÓLOGOS",
+        "divisao_id": "86"
+    },
+    {
+        "id": "864",
+        "descricao": "ATIVIDADES DE SERVIÇOS DE COMPLEMENTAÇÃO DIAGNÓSTICA E TERAPÊUTICA",
+        "divisao_id": "86"
+    },
+    {
+        "id": "865",
+        "descricao": "ATIVIDADES DE PROFISSIONAIS DA ÁREA DE SAÚDE, EXCETO MÉDICOS E ODONTÓLOGOS",
+        "divisao_id": "86"
+    },
+    {
+        "id": "866",
+        "descricao": "ATIVIDADES DE APOIO À GESTÃO DE SAÚDE",
+        "divisao_id": "86"
+    },
+    {
+        "id": "869",
+        "descricao": "ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA NÃO ESPECIFICADAS ANTERIORMENTE",
+        "divisao_id": "86"
+    },
+    {
+        "id": "871",
+        "descricao": "ATIVIDADES DE ASSISTÊNCIA A IDOSOS, DEFICIENTES FÍSICOS, IMUNODEPRIMIDOS E CONVALESCENTES, E DE INFRA-ESTRUTURA E APOIO A PACIENTES PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES",
+        "divisao_id": "87"
+    },
+    {
+        "id": "872",
+        "descricao": "ATIVIDADES DE ASSISTÊNCIA PSICOSSOCIAL E À SAÚDE A PORTADORES DE DISTÚRBIOS PSÍQUICOS, DEFICIÊNCIA MENTAL E DEPENDÊNCIA QUÍMICA",
+        "divisao_id": "87"
+    },
+    {
+        "id": "873",
+        "descricao": "ATIVIDADES DE ASSISTÊNCIA SOCIAL PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES",
+        "divisao_id": "87"
+    },
+    {
+        "id": "880",
+        "descricao": "SERVIÇOS DE ASSISTÊNCIA SOCIAL SEM ALOJAMENTO",
+        "divisao_id": "88"
+    },
+    {
+        "id": "900",
+        "descricao": "ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS",
+        "divisao_id": "90"
+    },
+    {
+        "id": "910",
+        "descricao": "ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL",
+        "divisao_id": "91"
+    },
+    {
+        "id": "920",
+        "descricao": "ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E APOSTAS",
+        "divisao_id": "92"
+    },
+    {
+        "id": "931",
+        "descricao": "ATIVIDADES ESPORTIVAS",
+        "divisao_id": "93"
+    },
+    {
+        "id": "932",
+        "descricao": "ATIVIDADES DE RECREAÇÃO E LAZER",
+        "divisao_id": "93"
+    },
+    {
+        "id": "941",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS PATRONAIS, EMPRESARIAIS E PROFISSIONAIS",
+        "divisao_id": "94"
+    },
+    {
+        "id": "942",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES SINDICAIS",
+        "divisao_id": "94"
+    },
+    {
+        "id": "943",
+        "descricao": "ATIVIDADES DE ASSOCIAÇÕES DE DEFESA DE DIREITOS SOCIAIS",
+        "divisao_id": "94"
+    },
+    {
+        "id": "949",
+        "descricao": "ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS NÃO ESPECIFICADAS ANTERIORMENTE",
+        "divisao_id": "94"
+    },
+    {
+        "id": "951",
+        "descricao": "REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO",
+        "divisao_id": "95"
+    },
+    {
+        "id": "952",
+        "descricao": "REPARAÇÃO E MANUTENÇÃO DE OBJETOS E EQUIPAMENTOS PESSOAIS E DOMÉSTICOS",
+        "divisao_id": "95"
+    },
+    {
+        "id": "960",
+        "descricao": "OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS",
+        "divisao_id": "96"
+    },
+    {
+        "id": "970",
+        "descricao": "SERVIÇOS DOMÉSTICOS",
+        "divisao_id": "97"
+    },
+    {
+        "id": "990",
+        "descricao": "ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS",
+        "divisao_id": "99"
+    }
+]
