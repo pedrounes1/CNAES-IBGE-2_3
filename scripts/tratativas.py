@@ -77,7 +77,7 @@ def getDados(categoria: str):
 
     {constraint});
 
-INSERT INTO {categoria} VALUES\n'''
+INSERT INTO cnae_{categoria} VALUES\n'''
     if categoria == 'secoes':  # secoes não tem parent
         for dado in resposta.to_dict(orient='records'):
             sql += f"('{dado['id']}', '{dado['descricao']}'),\n"
