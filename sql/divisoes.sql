@@ -4,7 +4,7 @@ descricao  VARCHAR(100) NOT NULL,
 secao_id CHAR(1) NOT NULL,
 
 PRIMARY KEY (id), 
- FOREIGN KEY (secoes) REFERENCES cnae_secao (id));
+ FOREIGN KEY (secao_id) REFERENCES cnae_secoes (id));
 
 INSERT INTO cnae_divisoes VALUES
 (01, 'AGRICULTURA, PECUÁRIA E SERVIÇOS RELACIONADOS', 'A'),
