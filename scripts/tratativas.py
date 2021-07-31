@@ -65,7 +65,7 @@ def getDados(categoria: str):
         # Defino o plural. Divisao e sessao perdem os dois ultimos caracteres e ganham 'oes'.
         parent_plural = parent[:-3] + 's' if parent[: -3] in ['grupo', 'classe'] else parent[:-5] + 'oes'
         fk = f'{parent} {"CHAR(1)" if categoria == "divisoes" else "INT"} NOT NULL,'
-        constraint = f'PRIMARY KEY (id), \n FOREIGN KEY ({parent_plural}) REFERENCES {parent[:-3]} (id)'
+        constraint = f'PRIMARY KEY (id), \n FOREIGN KEY ({parent_plural}) REFERENCES cnae_{parent[:-3]} (id)'
     else:
         fk = ''
         constraint = 'PRIMARY KEY (id)'
