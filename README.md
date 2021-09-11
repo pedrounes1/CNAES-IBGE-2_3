@@ -23,6 +23,7 @@ Os dados estão atualizados até 31/07/2021. Caso novas cnaes sejam criadas apó
 
 A estrutura dos dados e do readme foi inspirada no repositório de [Municipios Brasileiros do kelvins](https://github.com/kelvins/Municipios-Brasileiros)
 
+
 ## Exemplos
 
 ### Exemplo SQL
